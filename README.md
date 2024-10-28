@@ -6,7 +6,7 @@ Next, we discussed Integrated Development Environments (IDEs), comparing Visual 
 
 ### VS Code
 **Advantages:**
-  **Local Environment:** Offers full control and customization over your development setup.
+ ***Local Environment:** Offers full control and customization over your development setup.
   **Powerful Features:** Includes advanced capabilities like debugging, code completion, and version control integration.
   **Extensive Extensions:** A vast library of extensions for various languages and frameworks.
   **Offline Access:** Usable without an internet connection, ideal for limited connectivity.
