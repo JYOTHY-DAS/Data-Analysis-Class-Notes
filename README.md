@@ -1,4 +1,4 @@
-Today, I attended the first class of the "Data Science and Analytics" course at ICT Academy in Thiruvananthapuram. Our instructor, Mr. Sajil CK, emphasized the importance of mastering touch typing for efficient coding and introduced us to the platform [EdClub](https://www.edclub.com) for practice. He also encouraged us to become familiar with Linux software, highlighting its command-line interface (CLI) as a powerful tool for task automation.
+Today, I attended the first class of the "Data Science and Analytics" course at ICT Academy in Thiruvananthapuram. Our instructor, Mr. Sajil CK, emphasized the importance of mastering touch typing for efficient coding and introduced us to the platform [TypingClub](https://www.typingclub.com/) for practice. He also encouraged us to become familiar with Linux software, highlighting its command-line interface (CLI) as a powerful tool for task automation.
 
 We explored Google Workspace apps, specifically Google Sheets and Google Slides. Mr. Sajil explained that Google Sheets is a robust alternative to Excel for basic data analysis, while Google Slides serves as a free presentation tool akin to PowerPoint.
 
