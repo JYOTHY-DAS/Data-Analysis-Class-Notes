@@ -15,7 +15,7 @@
 
 ###  The limitations of Perceptron led to a loss of confidence in the potential of neural networks. Governments and industries became less willing to invest in AI research. This period is called as AI winter(mid-1970s to the early 1980s).
 
-###Geoffrey Everest Hinton(Godfather of AI): His contributions to the development of multiple neuron models have been instrumental in advancing the field of AI.
+### Geoffrey Everest Hinton(Godfather of AI): His contributions to the development of multiple neuron models have been instrumental in advancing the field of AI.
 He started a free course in [Coursera](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) on neural networks and machine learning. He received Nobel prize for physics in 2024.
 
 ## GPUs: The Powerhouses of Neural Network Training
