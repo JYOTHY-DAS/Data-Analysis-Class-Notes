@@ -26,7 +26,7 @@ He started a free course in [Coursera](https://www.youtube.com/playlist?list=PLo
 - ### Massive Parallel Processing Power: GPUs are designed to handle many tasks simultaneously, making them ideal for the matrix operations involved in neural network training.
 - ### High Memory Bandwidth: GPUs have large amounts of high-bandwidth memory, allowing them to quickly access and process the large datasets required for training complex models.
 - ### Specialized Hardware Accelerators: Modern GPUs often include specialized hardware accelerators, such as Tensor Cores, that are specifically designed to accelerate deep learning operations.
-- Popular GPU Choices for Neural Network Training: 1)NVIDIA GeForce RTX Series 2) NVIDIA Tesla Series 3) AMD Radeon RX Series
+- ### Popular GPU Choices for Neural Network Training: 1)NVIDIA GeForce RTX Series 2) NVIDIA Tesla Series 3) AMD Radeon RX Series
 
 ### DARPA(Defense Advanced Research Projects Agency) grand challenge: Fully autonomous vehicles have been an international pursuit for many years. The DARPA Grand Challenge is a prize competition for American autonomous vehicles, funded by the DARPA, the most prominent research organization of the United States Department of Defense. The Grand Challenge was the first long distance competition for driverless cars in the world. In the first DARPA challenge(2004) none of the robot vehicles finished the route. 
 
