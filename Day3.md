@@ -126,7 +126,7 @@ Presented by Mr. Sajil CK
 
 ### Machine Learning is a vast field with various branches, each with its own unique approach to learning from data. Here are the primary branches:
 
-Alt-Supervised Learning
+### *Supervised Learning*
 ### In supervised learning, algorithms are trained on a labeled dataset. This means that each data point is associated with a correct output. The goal is to learn a mapping function that can predict the output for new, unseen data.
 
  - ### Classification:
@@ -136,7 +136,7 @@ Alt-Supervised Learning
 ### Predicts a continuous numerical value.
 ### Examples: Predicting house prices, stock prices, or temperature.
 
--### **Unsupervised Learning**
+### *Unsupervised Learning*
 ### Unlike supervised learning, unsupervised learning deals with unlabeled data. The goal is to discover hidden patterns and structures within the data.   
 
  - ### Clustering:
