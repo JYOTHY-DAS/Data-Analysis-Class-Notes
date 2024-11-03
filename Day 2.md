@@ -1,2 +1,5 @@
-## 	The Software Development Life Cycle (SDLC): A Practical Overview 
-Presented by Mr. Gopu Darsan
+## Effective Project Management
+Facilitated by Mr. Gopu Darsan
+
+##	The Software Development Life Cycle (SDLC): A Practical Overview 
+
