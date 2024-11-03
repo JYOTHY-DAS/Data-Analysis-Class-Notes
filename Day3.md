@@ -1,6 +1,11 @@
 # Day3: 
 ## Historical development of AI 
 Presented by Mr. Sajil CK
+
+-li 1
+-li 2
+  -li 2.1
+  -li 2.2
 ### Enigma- II: A machine developed by Germany in WW II for data encryption. Modern computing started from the attempts to decrypt these messages. Mr. Allen Turing was key figure in braking these encrypted messages and now he is known as the father of modern computer.
 
 ### The idea of neural networks originated from the concept of neural pathway development in humans. Neuroplasticity is the adapting ability of brain which we can use in training neural networks.
