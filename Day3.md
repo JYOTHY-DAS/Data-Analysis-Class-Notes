@@ -215,5 +215,21 @@ Presented by Mr. Sajil CK
   <img width="396" height="377" src="https://github.com/JYOTHY-DAS/Images/blob/main/life_cycle.png">
 </p>
 
+### 7 steps of the data science lifecycle, illustrated through the perspective of a vegetable vendor looking to increase sales and manage inventory better.
 
+### 1. Understanding the Problem (Define Goals)
+#### Example: The vegetable vendor notices a fluctuation in daily sales and wants to find out what factors influence these changes. The goal is to understand sales patterns, forecast demand, and manage stock more effectively to avoid wastage and shortages.
+### 2. Data Collection
+#### Example: The vendor starts collecting data on daily sales by item (e.g., tomatoes, potatoes), the time of day each item was sold, weather conditions, days of the week, and special events (like holidays or festivals). This can be done manually in a notebook or using a simple digital app.
+### 3. Data Cleaning and Preparation
+#### Example: The collected data may have inconsistencies, like missing sales data for some items on certain days or data entry errors. The vendor ensures all records are consistent, removes errors, fills in missing values (or estimates them), and organizes the data by date, item, quantity sold, and other variables.
+### 4. Exploratory Data Analysis (EDA)
+#### Example: The vendor analyzes the data to identify trends. For instance, they might find that sales of leafy vegetables are higher in the morning, potatoes sell steadily throughout the day, and demand spikes before holidays. Visualizations like bar charts or time-series graphs can help reveal these patterns.
+### 5. Data Modeling
+#### Example: Based on the data patterns, the vendor could use simple statistical models or forecasting algorithms to predict demand. For instance, they might use time-series forecasting to anticipate how many kilograms of tomatoes or potatoes will be needed on a given day, considering factors like day of the week and seasonality.
+### 6. Model Evaluation
+#### Example: The vendor checks how well their predictions match actual sales. If the model predicts that 10 kg of tomatoes will be sold on a certain day but only 7 kg are sold, the vendor may adjust the model to improve accuracy. This can be done by refining the model parameters or adding more features, like weather data.
+### 7. Deployment and Monitoring
+#### Example: The vendor starts using the model’s predictions to manage inventory. They stock up based on anticipated demand, reducing wastage and ensuring popular items are available. They also continue to track actual sales versus predictions to refine the model over time. If a holiday approaches or a sudden trend in a specific vegetable’s popularity arises, the model is adjusted accordingly.
+### This cycle helps the vegetable vendor streamline their business, reduce waste, and ensure they meet customer demand effectively.
 
