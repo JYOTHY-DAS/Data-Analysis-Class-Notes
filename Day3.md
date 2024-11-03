@@ -215,7 +215,7 @@ Presented by Mr. Sajil CK
   <img width="620" height="620" src="https://github.com/JYOTHY-DAS/Images/blob/main/life_cycle.png">
 </p>
 
-### 7 steps of the data science lifecycle, illustrated through the perspective of a vegetable vendor looking to increase sales and manage inventory better.
+### Data science lifecycle, illustrated through the perspective of a vegetable vendor looking to increase sales and manage inventory better.
 
 ### 1. Understanding the Problem (Define Goals)
 #### Example: The vegetable vendor notices a fluctuation in daily sales and wants to find out what factors influence these changes. The goal is to understand sales patterns, forecast demand, and manage stock more effectively to avoid wastage and shortages.
