@@ -156,25 +156,24 @@ Presented by Mr. Sajil CK
 - ### Disadvantages:
   - #### Complexity: Requires careful memory management to avoid memory leaks and errors.
   - #### Overhead: Function calls and memory management operations can introduce overhead.
-### Use Cases:
-- #### Data structures with variable sizes (e.g., linked lists, trees).
-- #### Allocating memory for large data sets that may vary in size.
-- #### Dynamically resizing arrays or other data structures.
+- ### Use Cases:
+  - #### Data structures with variable sizes (e.g., linked lists, trees).
+  - #### Allocating memory for large data sets that may vary in size.
+  - #### Dynamically resizing arrays or other data structures.
 ## Pre-Allocation of Memory
 
-### Definition: Allocating memory at compile time, before program execution.
-### Process: The compiler reserves a fixed amount of memory for variables.
-### Advantages:
+- ### Definition: Allocating memory at compile time, before program execution.
+- ### Process: The compiler reserves a fixed amount of memory for variables.
+- ### Advantages:
   - #### Simplicity: Easier to manage and less prone to errors.
   - #### Efficiency: Direct access to memory without overhead.
-### Disadvantages:
+- ### Disadvantages:
   - #### Limited Flexibility: Memory size is fixed and cannot be changed during runtime.
   - #### Potential Waste: If the actual memory requirement is less, allocated memory is wasted.
-### Use Cases:
-- #### Arrays with fixed sizes.
-- #### Simple data structures with predictable memory usage.
+- ### Use Cases:
+  - #### Arrays with fixed sizes.
+  - #### Simple data structures with predictable memory usage.
 ## Choosing the Right Approach
-
 ### The choice between dynamic and pre-allocation depends on several factors:
 
 - ### Memory Requirements: If the memory requirements are known beforehand and relatively fixed, pre-allocation is often more efficient.
