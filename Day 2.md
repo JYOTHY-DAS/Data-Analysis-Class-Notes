@@ -1,1 +1,2 @@
-`#0969DA` ## 	The Software Development Life Cycle (SDLC): A Practical Overview 
+## 	The Software Development Life Cycle (SDLC): A Practical Overview 
+The background color is `#ffffff` for light mode 
