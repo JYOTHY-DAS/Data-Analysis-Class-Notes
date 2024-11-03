@@ -1,4 +1,4 @@
-## Effective Project Management
+# Effective Project Management
 Facilitated by Mr. Gopu Darsan
 
 ### Key Steps in Software Project Management
