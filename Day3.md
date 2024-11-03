@@ -75,7 +75,7 @@ Presented by Mr. Sajil CK
 - ### Learning and adaptation: AGI can learn from new information and experiences, making it capable of continuous improvement and evolution.
 - ### Reasoning and problem-solving: AGI can think critically, analyze information, and solve complex problems.
 - ### Self-awareness and consciousness: While not a strict requirement, some definitions of AGI include the ability to have subjective experiences and self-awareness.
-- ### Current state of AGI:
+### Current state of AGI:
 
 - ### While significant progress has been made in AI, true AGI remains a theoretical concept. Current AI systems are specialized in specific tasks, such as image recognition or natural language processing. Creating an AI that can perform any intellectual task at a human level is a complex and challenging goal.
 - ### Turing Test: The Turing test, originally called the imitation game by Alan Turing in 1949, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.
