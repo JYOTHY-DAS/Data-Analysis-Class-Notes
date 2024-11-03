@@ -1,2 +1,2 @@
 ## 	The Software Development Life Cycle (SDLC): A Practical Overview 
-Presented by Mr.Gopu Darsan
+Presented by Mr. Gopu Darsan
