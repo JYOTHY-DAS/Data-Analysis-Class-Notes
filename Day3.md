@@ -8,11 +8,7 @@ Presented by Mr. Sajil CK
 ### In 1958 Frank Rosenblatt developed the Mark I Perceptron machine  which is based on Perceptron algorithm developed by Warren McCulloch and Walter Pitts. The algorithm imitated the way neurons in the brain process information, and that enabled a system to learn from examples. We can say that it is a single layer neural network algorithm.
 
 <p align="center">
-  <img width="686" height="420" src="https://github.com/JYOTHY-DAS/Images/blob/main/S.jpg">
-</p>
-
-<p align="center">
-  <img width="600" height="400" src="https://github.com/JYOTHY-DAS/Images/blob/main/S.jpg">
+  <img width="520" height="400" src="https://github.com/JYOTHY-DAS/Images/blob/main/S.jpg">
 </p>
 
 ### A neuron will produce an output only if it receives a sufficient number of input signals, collectively at the dendrites. But if the amount of input signal is insufficient, the neuron will not produce an output. Perceptron mimicked the same method. It sums up the weighted inputs and if the result is above  a threshold value, it produces an output.
