@@ -93,7 +93,7 @@ Presented by Mr. Sajil CK
 - #### Uses application of both machine learning and deep learning to extract insights from data.
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/JYOTHY-DAS/Images/blob/main/Hierarchy.png">
+  <img width="420" height="420" src="https://github.com/JYOTHY-DAS/Images/blob/main/Hierarchy.png">
 </p>
 ## Correlation vs. Causation: A Key Distinction
 ### Correlation and causation are two concepts often confused, yet they have distinct meanings.   
