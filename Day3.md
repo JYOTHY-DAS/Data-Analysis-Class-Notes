@@ -211,8 +211,9 @@ Presented by Mr. Sajil CK
 
 ## Data science life cycle
 
-Reference: https://analyticstraininghub.com/life-cycle-of-data-science/
- 
+ <p align="center">
+  <img width="396" height="377" src="https://github.com/JYOTHY-DAS/Images/blob/main/life_cycle.png">
+</p>
 
 
 
