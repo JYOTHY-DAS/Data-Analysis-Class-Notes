@@ -32,7 +32,7 @@ Presented by Mr. Sajil CK
 
 - ### ***Massive parallel processing power*** which makes them ideal for the matrix operations involved in neural network training.
 - ### ***High memory bandwidth***: High Memory Bandwidth refers to the rate at which data can be transferred between the memory and the processor. It's essentially the speed at which data can be read from or written to memory. GPUs have large amounts of high-bandwidth memory, allowing them to quickly access and process the large datasets required for training complex models.
-- ### Specialized hardware accelerators: Modern GPUs often include specialized hardware accelerators, such as Tensor Cores, that are specifically designed to accelerate deep learning operations.
+- ### ***Specialized hardware accelerators***: Modern GPUs often include specialized hardware accelerators, such as Tensor Cores, that are specifically designed to accelerate deep learning operations.
 ### Popular GPU Choices for Neural Network Training: 
 - #### NVIDIA GeForce RTX Series 
 - #### NVIDIA Tesla Series
