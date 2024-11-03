@@ -196,11 +196,11 @@ Presented by Mr. Sajil CK
 - ### code reusability
 - ### modularity: Code is organized into reusable modules)
 - ### maintainability: Code is easier to understand, modify, and debug.
-
-(insert Code.jpg)
+- 
 <p align="center">
   <img width="396" height="377" src="https://github.com/JYOTHY-DAS/Images/blob/main/Code.jpg">
 </p>
+
 ### **In this example:**
 
 ### Car is a class(A blueprint or template for creating objects) that defines the properties (color, model, year) and behaviors (start, stop) of a car.
