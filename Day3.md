@@ -82,7 +82,7 @@ Presented by Mr. Sajil CK
 
 ## AI, Machine Learning, and Deep Learning: A Hierarchical Relationship
 ### Artificial Intelligence (AI)
-- #### Broadest definition: AI is the science of making intelligent machines, especially intelligent computer programs.   
+- #### AI is the science of making intelligent machines, especially intelligent computer programs.   
 - #### Goal: To create intelligent agents that can reason, learn, and make decisions.   
 ### Machine Learning (ML)
 - ####   Subset of AI: ML is a subset of AI that focuses on algorithms that allow computers to learn from data without being explicitly programmed.   
