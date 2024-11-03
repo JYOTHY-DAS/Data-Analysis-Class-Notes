@@ -38,7 +38,7 @@ Presented by Mr. Sajil CK
 - #### NVIDIA Tesla Series
 - #### AMD Radeon RX Series
 
-## DARPA(Defense Advanced Research Projects Agency) grand challenge
+## DARPA (Defense Advanced Research Projects Agency) grand challenge
 ### Fully autonomous vehicles have been an international pursuit for many years. The DARPA Grand Challenge is a prize competition for American autonomous vehicles, funded by the DARPA, the most prominent research organization of the United States Department of Defense. The Grand Challenge was the first long distance competition for driverless cars in the world. In the first DARPA challenge(2004) none of the robot vehicles finished the route. 
 
 ### The second DARPA Grand Challenge, 2005 played a pivotal role in accelerating the development of autonomous vehicle technology and, consequently, the broader field of AI. Here's why it was so significant:   
@@ -66,7 +66,7 @@ Presented by Mr. Sajil CK
 ### In essence, the DARPA Grand Challenge 2005 served as a catalyst for the rapid advancement of autonomous vehicle technology and AI as a whole.
 
 
-## AGI(Artificial general intelligence)
+## AGI (Artificial general intelligence)
 ### Artificial General Intelligence (AGI) refers to the hypothetical intelligence of a machine that possesses the ability to understand or learn any intellectual task that a human being can. It's a type of artificial intelligence (AI) that aims to mimic the cognitive abilities of the human brain.   
 
 ### Key characteristics of AGI:
