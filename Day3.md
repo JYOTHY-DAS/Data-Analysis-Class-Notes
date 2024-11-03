@@ -43,22 +43,22 @@ Presented by Mr. Sajil CK
 
 ### The second DARPA Grand Challenge, 2005 played a pivotal role in accelerating the development of autonomous vehicle technology and, consequently, the broader field of AI. Here's why it was so significant:   
 
-- ### 1. Catalyzed Technological Innovation:
+### 1. Catalyzed Technological Innovation:
 
 ### Pushed the Boundaries: The challenging off-road course forced teams to develop innovative solutions for perception, navigation, and control systems.   
 ### Accelerated Research: The competition spurred intense research and development efforts, leading to significant advancements in sensor technologies, computer vision, and machine learning algorithms.   
 
-- ### 2. Fostered Collaboration and Knowledge Sharing:   
+### 1. Fostered Collaboration and Knowledge Sharing:   
 
 ### Diverse Teams: The event brought together researchers from academia, industry, and government, fostering collaboration and knowledge exchange.   
 ### Open-Source Culture: Many teams shared their code and data, accelerating the development of autonomous vehicle technology for the entire community.
 
-- ### 3. Laid the Foundation for Future Advancements:
+### 1. Laid the Foundation for Future Advancements:
 
 ### Technological Building Blocks: The technologies developed for the Grand Challenge, such as LiDAR, radar, and computer vision algorithms, became foundational for self-driving cars and other autonomous systems.   
 ### Inspiring the Next Generation: The event inspired young engineers and scientists to pursue careers in robotics and AI, ensuring a pipeline of talent for future innovation.
 
-- ### 4. Demonstrated the Potential of AI:
+### 1. Demonstrated the Potential of AI:
 
 ### Public Awareness: The Grand Challenge showcased the potential of AI to solve complex real-world problems.   
 ### Investor interest: The success of the event attracted significant investment into autonomous vehicle technology, fueling further research and development.  
