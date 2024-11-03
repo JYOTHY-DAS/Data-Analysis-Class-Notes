@@ -95,6 +95,7 @@ Presented by Mr. Sajil CK
 <p align="center">
   <img width="420" height="420" src="https://github.com/JYOTHY-DAS/Images/blob/main/Hierarchy.png">
 </p>
+
 ## Correlation vs. Causation: A Key Distinction
 ### Correlation and causation are two concepts often confused, yet they have distinct meanings.   
 
