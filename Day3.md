@@ -121,7 +121,7 @@ Presented by Mr. Sajil CK
 
 (insert Branches.png)
 <p align="center">
-  <img width="720" height="720" src="https://github.com/JYOTHY-DAS/Images/blob/main/Branches.png">
+  <img width="595" height="374" src="https://github.com/JYOTHY-DAS/Images/blob/main/Branches.png">
 </p>
 ### Machine Learning is a vast field with various branches, each with its own unique approach to learning from data. Here are the primary branches:
 
