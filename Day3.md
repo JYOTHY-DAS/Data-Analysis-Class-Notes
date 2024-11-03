@@ -119,10 +119,10 @@ Presented by Mr. Sajil CK
    
 ## Major Branches of Machine Learning
 
-(insert Branches.png)
 <p align="center">
   <img width="595" height="374" src="https://github.com/JYOTHY-DAS/Images/blob/main/Branches.png">
 </p>
+
 ### Machine Learning is a vast field with various branches, each with its own unique approach to learning from data. Here are the primary branches:
 
 ### **Supervised Learning**
@@ -198,7 +198,9 @@ Presented by Mr. Sajil CK
 - ### maintainability: Code is easier to understand, modify, and debug.
 
 (insert Code.jpg)
-
+<p align="center">
+  <img width="396" height="377" src="https://github.com/JYOTHY-DAS/Images/blob/main/Code.jpg">
+</p>
 ### **In this example:**
 
 ### Car is a class(A blueprint or template for creating objects) that defines the properties (color, model, year) and behaviors (start, stop) of a car.
