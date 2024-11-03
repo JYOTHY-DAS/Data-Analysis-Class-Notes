@@ -186,7 +186,7 @@ Presented by Mr. Sajil CK
 - ### Flexibility: If the memory needs are dynamic and may change during runtime, dynamic allocation is necessary.   
 - ### Performance: Dynamic allocation can introduce overhead, so it's important to balance flexibility with performance.
 - ### Error Handling: Dynamic allocation requires careful memory management to avoid memory leaks and other issues.   
-- ### In many modern programming languages, memory management is often handled automatically through *** garbage collection*** , reducing the need for manual memory allocation and deallocation. However, understanding the concepts of dynamic and pre-allocation is still essential for efficient programming and debugging.
+- ### In many modern programming languages, memory management is often handled automatically through ***garbage collection*** , reducing the need for manual memory allocation and deallocation. However, understanding the concepts of dynamic and pre-allocation is still essential for efficient programming and debugging.
 
 ### Python primarily uses dynamic memory allocation. Python has a built-in memory manager that handles memory allocation and deallocation automatically.
 
