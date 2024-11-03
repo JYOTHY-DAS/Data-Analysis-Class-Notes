@@ -9,7 +9,7 @@ Presented by Mr. Sajil CK
 ![alt text](https://github.com/JYOTHY-DAS/Images/blob/main/S.jpg)
 
 <p align="center">
-  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://github.com/JYOTHY-DAS/Images/blob/main/S.jpg)">
+  <img width="460" height="300" src="(https://github.com/JYOTHY-DAS/Images/blob/main/S.jpg)">
 </p>
 
 ### A neuron will produce an output only if it receives a sufficient number of input signals, collectively at the dendrites. But if the amount of input signal is insufficient, the neuron will not produce an output. Perceptron mimicked the same method. It sums up the weighted inputs and if the result is above  a threshold value, it produces an output.
