@@ -16,7 +16,9 @@ Presented by Mr. Sajil CK
 
 ### 'Perceptrons: An Introduction to Computational Geometry' is a book written by Marvin Minsky and Seymour Papert and published in 1969. The crux of this book is a number of mathematical proofs which acknowledge some of the perceptron's strengths while also showing major limitations. The book proved that Perceptron machine won't be able to learn XOR function. After the publication of this book researchers started to question  the ability of 'Perceptron' to learn. The question raised was, if it cannot learn basic functions like XOR how can it learn complex tasks like walking, talking, writing etc.
 
-(include p.png here)
+<p align="center">
+  <img width="1094" height="446" src="https://github.com/JYOTHY-DAS/Images/blob/main/P.png">
+</p>
 
 ###  The limitations of Perceptron led to a loss of confidence in the potential of neural networks. Governments and industries became less willing to invest in AI research. This period is called as AI winter (mid-1970s to the early 1980s).
 
