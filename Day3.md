@@ -231,5 +231,5 @@ Presented by Mr. Sajil CK
 #### Example: The vendor checks how well their predictions match actual sales. If the model predicts that 10 kg of tomatoes will be sold on a certain day but only 7 kg are sold, the vendor may adjust the model to improve accuracy. This can be done by refining the model parameters or adding more features, like weather data.
 ### 7. Deployment and Monitoring
 #### Example: The vendor starts using the model’s predictions to manage inventory. They stock up based on anticipated demand, reducing wastage and ensuring popular items are available. They also continue to track actual sales versus predictions to refine the model over time. If a holiday approaches or a sudden trend in a specific vegetable’s popularity arises, the model is adjusted accordingly.
-### This cycle helps the vegetable vendor streamline their business, reduce waste, and ensure they meet customer demand effectively.
+#### This cycle helps the vegetable vendor streamline their business, reduce waste, and ensure they meet customer demand effectively.
 
