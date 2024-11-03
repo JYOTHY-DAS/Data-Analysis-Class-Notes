@@ -215,6 +215,10 @@ Presented by Mr. Sajil CK
   <img width="396" height="377" src="https://github.com/JYOTHY-DAS/Images/blob/main/life_cycle.png">
 </p>
 
+ <p align="center">
+  <img width="420" height="400" src="https://github.com/JYOTHY-DAS/Images/blob/main/life_cycle.png">
+</p>
+
 ### 7 steps of the data science lifecycle, illustrated through the perspective of a vegetable vendor looking to increase sales and manage inventory better.
 
 ### 1. Understanding the Problem (Define Goals)
