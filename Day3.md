@@ -140,7 +140,7 @@ Presented by Mr. Sajil CK
   - #### Clustering: Groups similar data points together.
   #### Examples: Customer segmentation, document clustering, image segmentation.
   - #### Association Rule Mining: Discovers relationships between items in a dataset.
-  #### Examples: Market basket analysis (e.g., people who buy bread also buy milk).
+  #### Examples: Market basket analysis (e.g., people who buy bread also buy jam).
   - #### Reinforcement Learning: Reinforcement learning involves training an agent to make decisions in an environment to maximize a reward signal.
   #### Examples: Game playing (e.g., [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y)), robotics, autonomous vehicles.
 
