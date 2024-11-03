@@ -78,6 +78,7 @@ Presented by Mr. Sajil CK
 - ### Current state of AGI:
 
 - ### While significant progress has been made in AI, true AGI remains a theoretical concept. Current AI systems are specialized in specific tasks, such as image recognition or natural language processing. Creating an AI that can perform any intellectual task at a human level is a complex and challenging goal.
+- ### Turing Test: The Turing test, originally called the imitation game by Alan Turing in 1949, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.
 
 ## AI, Machine Learning, and Deep Learning: A Hierarchical Relationship
 ### Artificial Intelligence (AI)
@@ -203,7 +204,7 @@ Presented by Mr. Sajil CK
 
 ### **In this example:**
 
-### Car is a class(A blueprint or template for creating objects) that defines the properties (color, model, year) and behaviors (start, stop) of a car.
+### Car is a class (A blueprint or template for creating objects) that defines the properties (color, model, year) and behaviors (start, stop) of a car.
 ### car1 and car2 are objects of the Car class, each with its own specific attributes.
 ### We can access the attributes and methods of these objects using the dot notation.
 
