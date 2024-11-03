@@ -128,9 +128,9 @@ Presented by Mr. Sajil CK
 
 - ### Supervised Learning: In supervised learning, algorithms are trained on a labeled dataset. This means that each data point is associated with a correct output. The goal is to learn a mapping function that can predict the output for new, unseen data.
 
-  - #### **Classification** :Categorizes data into discrete classes.
+  - #### ** Classification ** :Categorizes data into discrete classes.
   #### Examples: Email spam detection, image classification (cat vs. dog), disease diagnosis.
-  - #### **Regression**: Predicts a continuous numerical value.
+  - #### ** Regression **: Predicts a continuous numerical value.
   #### Examples: Predicting house prices, stock prices, or temperature.
 
 - ### Unsupervised Learning: Unlike supervised learning, unsupervised learning deals with unlabeled data. The goal is to discover hidden patterns and structures within the data.   
