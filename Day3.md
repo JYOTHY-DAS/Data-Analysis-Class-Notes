@@ -91,9 +91,9 @@ Presented by Mr. Sajil CK
 - #### Goal: To mimic the structure and function of the human brain to solve complex problems.
 ### Data Science: 
 - #### Uses application of both machine learning and deep learning to extract insights from data.
-(insert Hierarchy.png)
+
 <p align="center">
-  <img width="1094" height="446" src="https://github.com/JYOTHY-DAS/Images/blob/main/Hierarchy.png">
+  <img width="600" height="600" src="https://github.com/JYOTHY-DAS/Images/blob/main/Hierarchy.png">
 </p>
 ## Correlation vs. Causation: A Key Distinction
 ### Correlation and causation are two concepts often confused, yet they have distinct meanings.   
