@@ -2,10 +2,7 @@
 ## Historical development of AI 
 Presented by Mr. Sajil CK
 
-- ### li 1
-- ### li 2
-  - #### li 2.1
-  - #### li 2.2
+
 ### Enigma- II: A machine developed by Germany in WW II for data encryption. Modern computing started from the attempts to decrypt these messages. Mr. Allen Turing was key figure in braking these encrypted messages and now he is known as the father of modern computer.
 
 ### The idea of neural networks originated from the concept of neural pathway development in humans. Neuroplasticity is the adapting ability of brain which we can use in training neural networks.
@@ -131,23 +128,23 @@ Presented by Mr. Sajil CK
 
 ### Machine Learning is a vast field with various branches, each with its own unique approach to learning from data. Here are the primary branches:
 
-### *Supervised Learning*
+- ### *Supervised Learning*
 ### In supervised learning, algorithms are trained on a labeled dataset. This means that each data point is associated with a correct output. The goal is to learn a mapping function that can predict the output for new, unseen data.
 
- - ### Classification:Categorizes data into discrete classes.
-### Examples: Email spam detection, image classification (cat vs. dog), disease diagnosis.
- - ### Regression: Predicts a continuous numerical value.
-### Examples: Predicting house prices, stock prices, or temperature.
+  - #### Classification:Categorizes data into discrete classes.
+  #### Examples: Email spam detection, image classification (cat vs. dog), disease diagnosis.
+  - #### Regression: Predicts a continuous numerical value.
+  ### Examples: Predicting house prices, stock prices, or temperature.
 
-### *Unsupervised Learning*
+- ### *Unsupervised Learning*
 ### Unlike supervised learning, unsupervised learning deals with unlabeled data. The goal is to discover hidden patterns and structures within the data.   
 
- - ### Clustering: Groups similar data points together.
-#### Examples: Customer segmentation, document clustering, image segmentation.
- - ### Association Rule Mining: Discovers relationships between items in a dataset.
-#### Examples: Market basket analysis (e.g., people who buy bread also buy milk).
- - ### Reinforcement Learning: Reinforcement learning involves training an agent to make decisions in an environment to maximize a reward signal.
-#### Examples: Game playing (e.g., [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y)), robotics, autonomous vehicles.
+  - #### Clustering: Groups similar data points together.
+  #### Examples: Customer segmentation, document clustering, image segmentation.
+  - #### Association Rule Mining: Discovers relationships between items in a dataset.
+  #### Examples: Market basket analysis (e.g., people who buy bread also buy milk).
+  - #### Reinforcement Learning: Reinforcement learning involves training an agent to make decisions in an environment to maximize a reward signal.
+  #### Examples: Game playing (e.g., [AlphaGo](https://www.youtube.com/watch?v=WXuK6gekU1Y)), robotics, autonomous vehicles.
 
 
 ## Dynamic Memory Allocation vs. Static/Pre-Allocation of Memory
