@@ -102,15 +102,13 @@ Presented by Mr. Sajil CK
 ## Correlation vs. Causation: A Key Distinction
 ### Correlation and causation are two concepts often confused, yet they have distinct meanings.   
 
-### **Correlation**
-### Definition: Correlation refers to a statistical measure that indicates a relationship between two variables. It quantifies the strength and direction of this relationship.   
-### Key point: Correlation does NOT imply causation.   
-#### Example: Ice cream sales and drowning deaths are often positively correlated. However, eating ice cream doesn't cause drowning. A third variable, like warmer weather, influences both.   
+- ### **Correlation** : Correlation refers to a statistical measure that indicates a relationship between two variables. It quantifies the strength and direction of this relationship.   
+  - #### Key point: Correlation does NOT imply causation.   
+  - ##### Example: Ice cream sales and drowning deaths are often positively correlated. However, eating ice cream doesn't cause drowning. A third variable, like warmer weather, influences both.   
 
-### **Causation**
-### Definition: Causation implies a cause-and-effect relationship between two variables. One variable directly influences the other.   
-### Key point: Causation requires a deeper understanding of the underlying mechanisms and often involves controlled experiments.   
-### Example: Smoking causes lung cancer. This is a causal relationship, supported by extensive scientific research.   
+- ### **Causation** : Causation implies a cause-and-effect relationship between two variables. One variable directly influences the other.   
+  - #### Key point: Causation requires a deeper understanding of the underlying mechanisms and often involves controlled experiments.   
+  - #### Example: Smoking causes lung cancer. This is a causal relationship, supported by extensive scientific research.   
 
 ### Why is it important to distinguish between correlation and causation?
 
