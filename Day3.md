@@ -151,11 +151,11 @@ Presented by Mr. Sajil CK
 - ### Definition: Allocating memory at runtime as needed.   
 - ### Process: Programmer requests memory from the heap using - functions like malloc, calloc, or realloc.
 - ### Advantages:
-- #### Flexibility: Memory can be allocated as required, without a fixed size at compile time.   
-- #### Efficiency: Unused memory can be deallocated, optimizing memory usage.   
-### Disadvantages:
-- #### Complexity: Requires careful memory management to avoid memory leaks and errors.
-- #### Overhead: Function calls and memory management operations can introduce overhead.
+  - #### Flexibility: Memory can be allocated as required, without a fixed size at compile time.   
+  - #### Efficiency: Unused memory can be deallocated, optimizing memory usage.   
+- ### Disadvantages:
+  - #### Complexity: Requires careful memory management to avoid memory leaks and errors.
+  - #### Overhead: Function calls and memory management operations can introduce overhead.
 ### Use Cases:
 - #### Data structures with variable sizes (e.g., linked lists, trees).
 - #### Allocating memory for large data sets that may vary in size.
@@ -165,11 +165,11 @@ Presented by Mr. Sajil CK
 ### Definition: Allocating memory at compile time, before program execution.
 ### Process: The compiler reserves a fixed amount of memory for variables.
 ### Advantages:
-- #### Simplicity: Easier to manage and less prone to errors.
-- #### Efficiency: Direct access to memory without overhead.
+  - #### Simplicity: Easier to manage and less prone to errors.
+  - #### Efficiency: Direct access to memory without overhead.
 ### Disadvantages:
-- #### Limited Flexibility: Memory size is fixed and cannot be changed during runtime.
-- #### Potential Waste: If the actual memory requirement is less, allocated memory is wasted.
+  - #### Limited Flexibility: Memory size is fixed and cannot be changed during runtime.
+  - #### Potential Waste: If the actual memory requirement is less, allocated memory is wasted.
 ### Use Cases:
 - #### Arrays with fixed sizes.
 - #### Simple data structures with predictable memory usage.
@@ -206,7 +206,7 @@ Presented by Mr. Sajil CK
 ## Python Libraries
 - ### NumPy (Numerical Python): Python library for large multi-dimensional array processing. Require less time for numerical operations than normal python. (Eg: Image processign)
 
-- ### Pandas: Built on top of NumPy, which provides support for multi-dimensional arrays. I will make tabular(.csv: Comma separated values) operations faster and easier (Eg: Finding Max, Min, filter, sort etc.)
+- ### Pandas: Built on top of NumPy, which provides support for multi-dimensional arrays. It will make tabular(.csv: Comma separated values) operations faster and easier (Eg: Finding Max, Min, filter, sort etc.)
 
 - ### Scikit learn: Machine Learning library (Not neural network method, only classical methods) in python
 
