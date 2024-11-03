@@ -11,3 +11,7 @@ Facilitated by Mr. Gopu Darsan
 
 ## The Software Development Life Cycle (SDLC): A Practical Overview 
 
+## Agile Model
+<p align="center">
+  <img width="520" height="420" src="https://github.com/JYOTHY-DAS/Images/blob/main/Agile.jpg">
+</p>
