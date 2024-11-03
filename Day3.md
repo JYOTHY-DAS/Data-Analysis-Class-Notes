@@ -6,7 +6,6 @@ Presented by Mr. Sajil CK
 ### The idea of neural networks originated from the concept of neural pathway development in humans. Neuroplasticity is the adapting ability of brain which we can use in training neural networks.
 
 ### In 1958 Frank Rosenblatt developed the Mark I Perceptron machine  which is based on Perceptron algorithm developed by Warren McCulloch and Walter Pitts. The algorithm imitated the way neurons in the brain process information, and that enabled a system to learn from examples. We can say that it is a single layer neural network algorithm.
-![alt text](https://github.com/JYOTHY-DAS/Images/blob/main/S.jpg)
 
 <p align="center">
   <img width="686" height="420" src="https://github.com/JYOTHY-DAS/Images/blob/main/S.jpg">
