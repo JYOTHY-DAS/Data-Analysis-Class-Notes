@@ -102,6 +102,10 @@ Presented by Mr. Sajil CK
 ## Feature Engineering
 ### Feature engineering is the process of transforming raw data into features that are suitable for machine learning models. In other words, it is the process of selecting, extracting, and transforming the most relevant features from the available data to build more accurate and efficient machine learning models. Feature engineering involves a set of techniques that enable us to create new features by combining or transforming the existing ones. These techniques help to highlight the most important patterns and relationships in the data, which in turn helps the machine learning model to learn from the data more effectively.
 
+<p align="center">
+  <img width="466" height="229" src="https://github.com/JYOTHY-DAS/Images/blob/main/FeatureEngg.jpg">
+</p>
+
 ### The success of machine learning models heavily depends on the quality of the features used to train them.
 
 ## Correlation vs. Causation: A Key Distinction
