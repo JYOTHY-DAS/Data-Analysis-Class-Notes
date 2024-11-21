@@ -1,23 +1,23 @@
-AGGREGATE FUNCTIONS COUNT, MAX, MIN, AVG, SUM
+## AGGREGATE FUNCTIONS COUNT, MAX, MIN, AVG, SUM
 
-SELECT MIN(year) FROM movies;
-SELECT MAX(year) FROM movies;
-SELECT COUNT(*) FROM movies;
-SELECT COUNT(*) FROM movies where year>2000;
-SELECT COUNT(year) FROM movies;
+    -SELECT MIN(year) FROM movies;
+    -SELECT MAX(year) FROM movies;
+    -SELECT COUNT(*) FROM movies;
+    -SELECT COUNT(*) FROM movies where year>2000;
+    -SELECT COUNT(year) FROM movies;
 
 
-GROUP BY
+## GROUP BY
     - often used with COUNT, MIN, MAX, or SUM
     - if grouping columns contain NULL values, all null values are grouped together
 
-SELECT year, count(year) FROM movies GROUP BY year; # to know #ofmovies released/year
+SELECT year, count(year) FROM movies GROUP BY year; ( to know of movies released/year)
 
 SELECT year, count(year) year_count FROM movies GROUP BY year ORDER BY year_count;
-# here year_count is an alias
+( here year_count is an alias)
 
 
-HAVING
+## HAVING
     - Print years which have>1000 movies in our DB
     - Specifiy a condition on groups using HAVING
 
@@ -40,7 +40,7 @@ HAVING
            GROUP BY year
            HAVING year_count>20;
 
-Order of KEYWORDS
+## Order of KEYWORDS
  - https://dev.mysql.com/doc/refman/8.4/en/select.html
 
  - SELECT * FROM WHERE G-H-O-L
@@ -52,10 +52,10 @@ Order of KEYWORDS
 
 
 
-Join and Natural Join
+## Join and Natural Join
     - combine data in mutiple tables
 
-INNER JOIN Example
+## INNER JOIN Example
 
 SELECT A.ID, A.name, B.course
 FROM TableA A
@@ -63,36 +63,33 @@ INNER JOIN TableB B
 ON A.ID=B.ID
 
 
-Natural JOIN Example
+## Natural JOIN Example
 
 SELECT *
 FROM TableA
 NATURAL JOIN TableB;
 
 
-LEFT JOIN Example
+## LEFT JOIN Example
 
 SELECT A.ID, A.name, B.course
 FROM TableA A
 LEFT JOIN TableB B
 ON A.ID=B.ID
 
-RIGHT JOIN Example
+## RIGHT JOIN Example
 
 SELECT A.ID, A.name, B.course
 FROM TableA A
 RIGHT JOIN TableB B
 ON A.ID=B.ID
 
-FULL OUTER JOIN Example
+## FULL OUTER JOIN Example
 
 SELECT A.ID, A.name, B.course
 FROM TableA A
 FULL OUTER JOIN TableB B
 ON A.ID=B.ID
-
-
-
 
 
 SELECT m.name, g.genre
