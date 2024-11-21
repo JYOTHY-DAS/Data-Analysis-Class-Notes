@@ -1,0 +1,23 @@
+# Day3: 
+## Historical development of AI 
+
+
+
+
+### 'Perceptrons: An Introduction to Computational Geometry' is a book written by Marvin Minsky and Seymour Papert and published in 1969. The crux of this book is a number of mathematical proofs which acknowledge some of the perceptron's strengths while also showing major limitations. The book proved that Perceptron machine won't be able to learn XOR function. After the publication of this book researchers started to question  the ability of 'Perceptron' to learn. The question raised was, if it cannot learn basic functions like XOR how can it learn complex tasks like walking, talking, writing etc.
+
+<p align="center">
+  <img width="1094" height="446" src="https://github.com/JYOTHY-DAS/Images/blob/main/p.png">
+</p>
+
+
+
+### Graphics Processing Units (GPUs), originally designed for rendering graphics, have become indispensable tools for training neural networks. This is due to their:
+
+- ### ***Massive parallel processing power*** which makes them ideal for the matrix operations involved in neural network training.
+- ### ***High memory bandwidth***: High Memory Bandwidth refers to the rate at which data can be transferred between the memory and the processor. It's essentially the speed at which data can be read from or written to memory. GPUs have large amounts of high-bandwidth memory, allowing them to quickly access and process the large datasets required for training complex models.
+- ### ***Specialized hardware accelerators***: Modern GPUs often include specialized hardware accelerators, such as Tensor Cores, that are specifically designed to accelerate deep learning operations.
+### Popular GPU Choices for Neural Network Training: 
+- #### NVIDIA GeForce RTX Series 
+- #### NVIDIA Tesla Series
+- #### AMD Radeon RX Series
