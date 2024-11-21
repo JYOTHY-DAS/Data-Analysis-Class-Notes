@@ -1,5 +1,12 @@
 ## Introduction to Databases
 ### Why Databases?
+- #### Data of the digital age can be categorized into operational and analytical data.
+
+   - ##### Operational data is used for day-to-day transactions and needs to be fresh—for example, product inventory and bank balance. Such data is captured in real-time using Online Transaction Processing (OLTP) systems.
+
+   - ##### Analytical data is used by businesses to find insights about customer behavior, product performance, and forecasting. It includes data collected over a period of time and is usually stored in OLAP (Online Analytical Processing) systems, warehouses, or data lakes.
+
+   - ##### Databases are the most efficient way to permanently store and fetch operational and analytical data digitally. 
 - #### Alternatives: CSV file, text file, excel file are all flat files
 - #### Databases make our life simpler, easier, faster, reliable, and secure.
 - #### E.g finding rows where value of a particular column>10 is time consuming in flat files. Databases use a technique called indexing with simple and easy to use langauge called SQL to achieve the result faster.
