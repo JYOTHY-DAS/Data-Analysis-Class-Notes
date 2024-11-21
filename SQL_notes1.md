@@ -10,12 +10,11 @@
 ### Relational and Non-relational Databases
    - ###  Relational Databases (Traditional DBs (from 1970s) like the one listed above): A relational database stores data in structured tables with rows and columns, using a predefined schema to clearly define relationships between data points.
         
-   - ### Non-Relational Databases
-            - e.g. MongoDB, non-relational database (often called NoSQL) offers more flexibility by storing 
-            data in various formats like documents, key-value pairs, or graphs, allowing for less structured 
-            and more dynamic data sets; essentially, 
+   - ### Non-Relational Databases ( NoSQL)
+      -  Non-relational database offers more flexibility by storing data in various formats like documents, key-value pairs, or graphs, allowing for less structured and more dynamic data sets;
+      -   E.g: MongoDB
         
-        - Relational databases are ideal for highly structured data with complex queries, while non-relational 
+      - Relational databases are ideal for highly structured data with complex queries, while non-relational 
           databases excel in handling large volumes of diverse data with rapid scalability needs.
 
     - Tables
