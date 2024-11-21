@@ -9,7 +9,7 @@
    - ##### Databases are the most efficient way to permanently store and fetch operational and analytical data digitally. 
 - #### Alternatives: CSV file, text file, excel file are all flat files
 - #### Databases make our life simpler, easier, faster, reliable, and secure.
-- #### E.g finding rows where value of a particular column>10 is time consuming in flat files. Databases use a technique called indexing with simple and easy to use langauge called SQL to achieve the result faster.
+- #### E.g finding rows where value of a particular column>10 is time consuming in flat files. Databases use a technique called indexing with simple and easy to use langauge called SQL (Structured Query Langiage) to achieve the result faster.
 - #### This is done without much programming background, instead it uses the quering language.
 - #### Databases backup the data at multiple places to increase reliability.
 - #### Example Databases : Oracle, MySQL, SQLServer
