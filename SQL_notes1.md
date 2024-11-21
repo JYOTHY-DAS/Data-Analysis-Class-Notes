@@ -34,29 +34,29 @@
         - There is a Primary Key associated with each tables
 
 ### Why SQL?
-    - SQL stands for Structured Query Language
+   - #### SQL stands for Structured Query Language
         - has its beginings from 1970's from IBM
         - Standard way to query/add/delete/modify data
         - e.g. query: List of all movies that released after 2012
         - SQL is used by data scientist, ML engieers, Software engineers etc.
     
-    - SQL is not a general purpose programming langauge, it is domain specific language
+   - #### SQL is not a general purpose programming langauge, it is domain specific language
 
-    - General purpose programming langauge lets you create web/mobile apps, games, DBs, Operating systems etc.
+   - #### General purpose programming langauge lets you create web/mobile apps, games, DBs, Operating systems etc.
 
-    - C/C++, Python, etc are procedural programming langauge, step by step instructin provided
+   - #### C/C++, Python, etc are procedural programming langauge, step by step instructin provided
 
-    - SQL is declarative programming langauge,
+   - #### SQL is declarative programming langauge,
 
 
-Execution of an SQL statement
+### Execution of an SQL statement
     - The execution follows the following actions
-    - SQL->Parser, compiler 
-         ->parser: tries to understand the query
-         ->compiler: query optimizer (optimal way to execute) & generates code
-         ->query executer->DB->results
+    - SQL->Parser, compiler \
+         ->parser: tries to understand the query\
+         ->compiler: query optimizer (optimal way to execute) & generates code\
+         ->query executer->DB->results\
 
-IMDB dataset
+### IMDB dataset
     - Website owed by amazon.com: has data on movies
     - data about 388,269 movies (since 1888-)
     - 817,718 actors
