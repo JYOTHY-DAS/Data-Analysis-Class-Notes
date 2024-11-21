@@ -57,12 +57,12 @@
          ->query executer->DB->results
 
 ### IMDB dataset
-    - Website owed by amazon.com: has data on movies
-    - data about 388,269 movies (since 1888-)
-    - 817,718 actors
-    - 86, 880 directors
-    - Tables
-    - Schema of a database: All tables and their relationship
+   - #### Website owed by amazon.com: has data on movies
+   - #### data about 388,269 movies (since 1888-)
+   - #### 817,718 actors
+   - #### 86, 880 directors
+   - #### Tables
+   - #### Schema of a database: All tables and their relationship
         - directors
             - id (primary key)
             - first_name
@@ -94,17 +94,16 @@
             - movie_id
             - genre
 
-
-Installing MySQL
+- #### Installing MySQL
     - www.mysql.com
         - MySQL community edition: MySQL Community server
         - MySQL commandline client
 
-Online Tutorial
+- #### Online Tutorial
     - https://sqlzoo.net/wiki/SQL_Tutorial
 
 
-Load IMDB data
+- #### Load IMDB data
     mysql -u username -p password
     CREATE DATABASE imdb;
     USE imdb;
@@ -112,7 +111,7 @@ Load IMDB data
     SHOW tables;
 
 
-- USE, DESCRIBE, SHOW Tables
+- #### USE, DESCRIBE, SHOW Tables
     - mysql -u root -p root
     - CNTRL+L to clear the screen
     - CREATE DATABASE imdb;
@@ -123,8 +122,7 @@ Load IMDB data
         - shows the schema of a particular table
         - DESCRIBE actors;
 
-
-SELECT
+- #### SELECT
     - Suppose if i want to list all the movies, i can use select clause 
 
     USE imdb;
@@ -137,28 +135,27 @@ SELECT
         - the output row order is same as the one in the table
 
 
-LIMIT, OFFSET
+- #### LIMIT, OFFSET
     -  view information like a page by page fashion
         - e.g. flipkart view gadgets by price/review
 
     - SELECT name, rankscore FROM movies LIMIT 20;
     - SELECT name, rankscore FROM movies LIMIT 20 OFFSET 40;
 
-
-ORDER BY
+- #### ORDER BY
     - SELECT name, year FROM movies ORDER BY year DESC LIMIT 10;
     - default sorting order in ascending
     - The output row order maynot be same as the one in the table due to
     query optimizer and internal data-structures/indices.
 
 
-DISTINCT
+- #### DISTINCT
     - Can be used to find distinct values with in a columns
     - SELECT DISTINCT genre FROM movie_genres;
     - SELECT DISTINCT first_name. last_name FROM directors ORDER BY first_name;
 
 
-WHERE, Comparison operators, NULL
+- #### WHERE, Comparison operators, NULL
     - SELECT name, year, rankscore FROM movies WHERE rankscore>9;
     - SELECT name, year, rankscore
       FROM movies
@@ -178,7 +175,7 @@ WHERE, Comparison operators, NULL
     - SELECT name, year, rankscore FROM movies WHERE rankscore IS NOT NULL;
 
 
-LOGICAL OPERATORS
+- #### LOGICAL OPERATORS
     - AND, OR, NOT, ALL, ANY, BETWEEN, EXIST, IN, LIKE, SOME
 
     
