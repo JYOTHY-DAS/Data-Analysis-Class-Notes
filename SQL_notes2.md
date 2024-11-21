@@ -107,22 +107,22 @@ LIMIT 20;
     - returns C1, C2, C3, C4
     - no need to use the keyword "ON"
 
-Practice with Hacker Rank
+(Try practice questions in Hacker Rank)
 
-Sub-Queries or Nested Queris or Inner Queries
+## Sub-Queries or Nested Queris or Inner Queries
     - First inner query is executed then outer query is executed
 
 SELECT actor_id FROM roles WHERE movie_id IN
 (SELECT id FROM movies where name='Schindler's List')
 
-IN, NOT IN, EXISTS, NOT EXISTS, ANY, ALL, Comparison operators
+## IN, NOT IN, EXISTS, NOT EXISTS, ANY, ALL, Comparison operators
     - ANY operator retuns TRUE if any of the subquery values meet the condition
     - ALL operator returns TRUE if all of the subquery values meet the condition
 
     - e.g. SELECT * FROM movies WHERE rankscore>= ALL (SELECT MAX(rankscore) FROM movies);
 
 
-CREATE, READ, UPDATE, DELETE (CRUD)
+## CREATE, READ, UPDATE, DELETE (CRUD)
 
 CREATE
     - CREATE TABLE table_name (
