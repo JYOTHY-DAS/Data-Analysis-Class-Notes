@@ -8,11 +8,9 @@
 - ### Example Databases : Oracle, MySQL, SQLServer
 
 ### Relational and Non-relational Databases
-   - ###  Relational Databases (Traditional DBs (from 1970s) like the one listed above): A relational database 
-        stores data in structured tables with rows and columns, using a predefined schema to clearly define 
-        relationships between data points
+   - ###  Relational Databases (Traditional DBs (from 1970s) like the one listed above): A relational database stores data in structured tables with rows and columns, using a predefined schema to clearly define relationships between data points.
         
-        - Non-Relational Databases
+   - ### Non-Relational Databases
             - e.g. MongoDB, non-relational database (often called NoSQL) offers more flexibility by storing 
             data in various formats like documents, key-value pairs, or graphs, allowing for less structured 
             and more dynamic data sets; essentially, 
