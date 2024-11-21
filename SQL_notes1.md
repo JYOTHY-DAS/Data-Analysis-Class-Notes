@@ -1,14 +1,14 @@
 ## Introduction to Databases
 ### Why Databases?
-    - ### Alternatives: CSV file, text file, excel file are all flat files
-    - ### Databases make our life simpler, easier, faster, reliable, and secure
-    - ### E.g finding rows where value of a particular column>10 is time consuming in flat files. Databases
+- ### Alternatives: CSV file, text file, excel file are all flat files
+- ### Databases make our life simpler, easier, faster, reliable, and secure
+- ### E.g finding rows where value of a particular column>10 is time consuming in flat files. Databases
           use a technique called indexing with simple and easy to use langauge called SQL
           to achieve the result faster.
-    - ### This is done without much programming background, instead it uses the quering language.
-    - ### Databases backup the data at multiple places to increase reliability
+- ### This is done without much programming background, instead it uses the quering language.
+- ### Databases backup the data at multiple places to increase reliability
 
-    - ### Example Databases : Oracle, MySQL, SQLServer
+- ### Example Databases : Oracle, MySQL, SQLServer
 
 ### Relational and Non-relational Databases
    - ###  Relational Databases (Traditional DBs (from 1970s) like the one listed above): A relational database 
