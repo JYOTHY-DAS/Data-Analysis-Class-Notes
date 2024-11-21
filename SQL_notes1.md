@@ -53,10 +53,13 @@
 
    - #### C/C++, Python, etc are procedural programming langauge, step by step instructin provided
 
-   - #### SQL is declarative programming langauge,
+   - #### SQL is declarative programming langauge ( it focuses on what a program should achieve, rather than how to achieve it): It simplify coding processes, reduce the chance of coding errors, and make programs more readable and predictable.
 
 
 ### Execution of an SQL statement
+<p align="center">
+  <img width="520" height="380" src="https://github.com/JYOTHY-DAS/Images/blob/main/SQL1.jpg">
+</p>
     - The execution follows the following actions
     - SQL->Parser, compiler 
          ->parser: tries to understand the query
