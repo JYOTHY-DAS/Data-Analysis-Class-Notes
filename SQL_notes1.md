@@ -1,11 +1,6 @@
-
-<p align="center">
-  <img width="1094" height="446" src="https://github.com/JYOTHY-DAS/Images/blob/main/p.png">
-</p>
-
 ## Introduction to Databases
     -## Why Databases?
-        - - ### Alternatives: CSV file, text file, excel file are all flat files
+        - ### Alternatives: CSV file, text file, excel file are all flat files
         - Databases make our life simpler, easier, faster, reliable, and secure
         - E.g finding rows where value of a particular column>10 is time consuming in flat files. Databases
           use a technique called indexing with simple and easy to use langauge called SQL
