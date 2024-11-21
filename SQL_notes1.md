@@ -51,10 +51,10 @@
 
 ### Execution of an SQL statement
     - The execution follows the following actions
-    - SQL->Parser, compiler \
-         ->parser: tries to understand the query\
-         ->compiler: query optimizer (optimal way to execute) & generates code\
-         ->query executer->DB->results\
+    - SQL->Parser, compiler 
+         ->parser: tries to understand the query
+         ->compiler: query optimizer (optimal way to execute) & generates code
+         ->query executer->DB->results
 
 ### IMDB dataset
     - Website owed by amazon.com: has data on movies
