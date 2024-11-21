@@ -60,7 +60,8 @@
 <p align="center">
   <img width="520" height="380" src="https://github.com/JYOTHY-DAS/Images/blob/main/SQL1.jpg">
 </p>
-    - The execution follows the following actions
+
+    - The execution follows the following actions:
     - SQL->Parser, compiler 
          ->parser: tries to understand the query
          ->compiler: query optimizer (optimal way to execute) & generates code
