@@ -68,7 +68,7 @@
          ->query executer->DB->results
 
 ### IMDB dataset
-   - #### Website owed by amazon.com: has data on movies
+   - #### Website owed by amazon.com: has data on movies.
    - #### data about 388,269 movies (since 1888-)
    - #### 817,718 actors
    - #### 86, 880 directors
