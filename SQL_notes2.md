@@ -2,7 +2,8 @@
 
     -SELECT MIN(year) FROM movies;
     -SELECT MAX(year) FROM movies;
-    -SELECT COUNT(*) FROM movies;
+    -SELECT COUNT(*) FROM movies; 
+    (COUNT(*) function is used to count the total number of rows in a specified table or result set. It counts all rows, including those with NULL values.)
     -SELECT COUNT(*) FROM movies where year>2000;
     -SELECT COUNT(year) FROM movies;
 
