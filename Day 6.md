@@ -67,7 +67,7 @@ A probability distribution represents how the probabilities of a random variable
 - In the context of continuous distributions, inequalities like **Chebyshev's inequality** are used to estimate the proportion of data within a certain number of standard deviations from the mean.
 - **Chebyshev's Inequality**:
   ```
-  $$P(|X - \mu| \geq k\sigma) \leq \frac{1}{k^2}$$
+  $$ P(|X - \mu| \geq k\sigma) \leq \frac{1}{k^2} $$
   ```
   This inequality applies to any distribution (not just Gaussian) and helps bound the probability that a random variable deviates significantly from its mean.
 
