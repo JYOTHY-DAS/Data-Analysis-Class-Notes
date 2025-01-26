@@ -105,7 +105,7 @@ A probability distribution represents how the probabilities of a random variable
 ### 9.1 Variance
 - **Definition**: Measures the spread of a single random variable by quantifying the average squared deviation from its mean.
 - **Formula**:
-  - $$\( \text{Variance} = \sigma^2 = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2 \) $$
+  - $$ \text{Variance} = \sigma^2 = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2  $$
  
 - **Example**:
   - Variance of test scores in a class.
