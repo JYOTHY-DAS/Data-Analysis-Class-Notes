@@ -28,28 +28,27 @@
 
 ## Representation of Geometric Objects
 
-## Is $$ w1*x_1 + w2 * x2 + .... + wk* xk = 0 $$ the Equation of a Line?
+## General equation of a hyperplane
 
-The equation $$ w_1x_1 + w_2x_2 + \ldots + w_kx_k = 0 $$ is **not specifically the equation of a line in all cases**. Instead, it is the **general equation of a hyperplane** in \( k \)-dimensional space. Here's how it applies to different cases:
+##### $$ w1*x1 + w2 * x2 + .... + wk * xk = 0 $$
+---
+
+### Line
+- In **2D space** (i.e k = 2 )):
+  - The equation $$ w1 * x1 + w2 * x2 = 0 simplifies to $$ w1 * x + w2 * y = 0 $$, which represents a **line passing through the origin**.
+  - On adding a constant  'c', the equation becomes $$ w1 * x + w2 * y + c = 0 $$, which is the **general equation of a line in 2D**.
 
 ---
 
-### 1. **When is it the Equation of a Line?**
-- In **2D space** (\( k = 2 \)):
-  - The equation \( w_1x_1 + w_2x_2 = 0 \) simplifies to \( w_1x + w_2y = 0 \), which represents a **line passing through the origin**.
-  - Adding a constant \( c \), the equation becomes \( w_1x + w_2y + c = 0 \), which is the **general equation of a line in 2D**.
+### Plane
+- In **3D space** (i.e k = 3):
+  - The equation $$ w1 * x1 + w2 * x2 + w3 * x3 = 0 $$ represents a **plane passing through the origin**.
+  - Adding a constant 'c' gives $$ w1 * x1 + w2 * x2 + w3 * x3 + c = 0 $$ , the **general equation of a plane in 3D**.
 
 ---
 
-### 2. **When is it the Equation of a Plane?**
-- In **3D space** (\( k = 3 \)):
-  - The equation \( w_1x_1 + w_2x_2 + w_3x_3 = 0 \) represents a **plane passing through the origin**.
-  - Adding a constant \( c \) gives \( w_1x_1 + w_2x_2 + w_3x_3 + c = 0 \), the **general equation of a plane in 3D**.
-
----
-
-### 3. **When is it the Equation of a Hyperplane?**
-- In **\( k \)-dimensional space**, the equation \( w_1x_1 + w_2x_2 + \ldots + w_kx_k = 0 \) defines a **hyperplane**, which is a flat subspace of dimension \( (k-1) \) in \( k \)-dimensional space.
+### Hyperplane
+- In **k-dimensional space**, the equation \( w_1x_1 + w_2x_2 + \ldots + w_kx_k = 0 \) defines a **hyperplane**, which is a flat subspace of dimension \( (k-1) \) in \( k \)-dimensional space.
 
 ---
 - **Line (1D)**: 
