@@ -78,7 +78,7 @@ Histograms represent the distribution of a dataset using bars.
 ### 1. Bell Curve (Normal Distribution):
 - Symmetrical distribution where:
   - 68% of the data lies within one standard deviation of the mean.
-  - 98% of the data lies within two standard deviations.
+  - 98% of the data lies within two standard deviations of the mean.
 
 ### 2. Bimodal Distribution:
 - A distribution with two distinct peaks.
