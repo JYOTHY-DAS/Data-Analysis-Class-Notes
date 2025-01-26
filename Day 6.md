@@ -130,6 +130,8 @@ A probability distribution represents how the probabilities of a random variable
 - **Definition**: Measures how two random variables vary together.
 - **Formula**:
   - $$\( \text{Cov}(X, Y) = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu_X)(y_i - \mu_Y) \) $$
+ 
+  - $$\text{Cov}(X, Y) = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu_X)(y_i - \mu_Y)$$
 - **Interpretation**:
   - Positive covariance: Variables increase together.
   - Negative covariance: One variable increases while the other decreases.
