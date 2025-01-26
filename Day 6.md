@@ -105,15 +105,15 @@ A probability distribution represents how the probabilities of a random variable
 ### 9.1 Variance
 - **Definition**: Measures the spread of a single random variable by quantifying the average squared deviation from its mean.
 - **Formula**:
-  - $$\( \text{Variance} = \sigma^2 = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2 \). $$
- - $$\( \text{Variance} = \sigma^2 = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2 \).$$
+  - $$\( \text{Variance} = \sigma^2 = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2 \) $$
+ 
 - **Example**:
   - Variance of test scores in a class.
 
 ### 9.2 Covariance
 - **Definition**: Measures how two random variables vary together.
 - **Formula**:
-  - \( \text{Cov}(X, Y) = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu_X)(y_i - \mu_Y) \).
+  - $$\( \text{Cov}(X, Y) = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu_X)(y_i - \mu_Y) \) $$
 - **Interpretation**:
   - Positive covariance: Variables increase together.
   - Negative covariance: One variable increases while the other decreases.
@@ -121,8 +121,6 @@ A probability distribution represents how the probabilities of a random variable
   - Relationship between study hours (X) and test scores (Y).
 
 ---
-
-Feel free to ask if you need further clarifications or additional examples!
 
 
 
