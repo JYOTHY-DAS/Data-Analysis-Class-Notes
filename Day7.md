@@ -35,7 +35,7 @@
 ---
 
 ### Line
-- In **2D space** (i.e k = 2 )):
+- In **2D space** (i.e k = 2 ):
   - The equation $$w1 * x1 + w2 * x2 = 0 $$ simplifies to $$w1 * x + w2 * y = 0 $$, which represents a **line passing through the origin**.
   - On adding a constant  'c', the equation becomes $$w1 * x + w2 * y + c = 0 $$, which is the **general equation of a line in 2D**.
 
