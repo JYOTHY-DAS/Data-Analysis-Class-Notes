@@ -65,7 +65,7 @@ A probability distribution represents how the probabilities of a random variable
 - **Definition**: A mathematical expression that compares two values or expressions.
 - **Examples**:
   - x > y : x is greater than y.
-  - x \leq z : x is less than or equal to z.
+  - x leq z : x is less than or equal to z.
 
 ---
 
