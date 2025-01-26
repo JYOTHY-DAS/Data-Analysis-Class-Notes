@@ -101,12 +101,8 @@ A probability distribution represents how the probabilities of a random variable
 - **Definition**: A distribution where the random variable can only take specific, distinct values.
 - **Examples**:
   - Number of students in a class.
-  - Rolling a die.
-
-#### Probability Mass Function (PMF)
-- **Definition**: A function that gives the probability of each possible value of a discrete random variable.
-- **Example**:
-  - Rolling a die: PMF assigns P(X = x) = 1/6 for ( x = 1, 2, ...., 6).
+  - Probability Mass Function (PMF: A function that gives the probability of each possible value of a discrete random variable.) of Rolling a die.
+  ''' P(X = x) = 1/6 for ( x = 1, 2, ...., 6) '''
 
 ---
 
