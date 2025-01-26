@@ -104,6 +104,8 @@ A probability distribution represents how the probabilities of a random variable
   - Probability Mass Function (PMF: A function that gives the probability of each possible value of a discrete random variable.) of Rolling a die.
     $$ P(X = x) = \frac{1}{6} for ( x = 1, 2, ...., 6)$$
 
+    $$P(X = x) = \frac{1}{6} \quad \text{for } x = 1, 2, \ldots, 6 $$
+
 ---
 
 ## 8. Bernoulli Distribution
