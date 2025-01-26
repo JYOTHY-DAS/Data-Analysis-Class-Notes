@@ -72,7 +72,7 @@ The determinant tells us whether a matrix is **invertible** (non-singular) or **
    - The matrix is **singular** and **not invertible**.
    - A determinant of 0 means the matrix does not have full rank (its rows or columns are linearly dependent), so the system of equations represented by the matrix cannot have a unique solution.
 
-2. If $$\text{det}(A) \neq 0 \)$$
+2. If $$\text{det}(A) \neq 0 $$
    - The matrix is **non-singular** and **invertible**.
    - A non-zero determinant indicates that the rows and columns are linearly independent, meaning the system of equations represented by the matrix has a unique solution.
 
