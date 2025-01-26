@@ -28,9 +28,10 @@
 
 ## Representation of Geometric Objects
 
-## General equation of a hyperplane
+### General equation of a hyperplane
 
 ##### $$ w1*x1 + w2 * x2 + .... + wk * xk = 0 $$
+ - `x1, x2, ..., xk` are dimensions/variables, and `w1, w2, ..., wk` are weights/coefficients.
 ---
 
 ### Line
@@ -41,6 +42,10 @@
 ---
 
 ### Plane
+A flat, 2-dimensional surface in 3-dimensional space.
+- In 2D space: The "plane" is the entire space itself because there's only two dimensions.
+- In 3D space: A plane is a 2D surface, like a sheet of paper or a tabletop.
+  - Example: Imagine a flat sheet of paper that extends infinitely in two directions. This is a plane in 3D space.
 - In **3D space** (i.e k = 3):
   - The equation $$ w1 * x1 + w2 * x2 + w3 * x3 = 0 $$ represents a **plane passing through the origin**.
   - Adding a constant 'c' gives $$ w1 * x1 + w2 * x2 + w3 * x3 + c = 0 $$ , the **general equation of a plane in 3D**.
@@ -48,27 +53,15 @@
 ---
 
 ### Hyperplane
-- In **k-dimensional space**, the equation \( w_1x_1 + w_2x_2 + \ldots + w_kx_k = 0 \) defines a **hyperplane**, which is a flat subspace of dimension \( (k-1) \) in \( k \)-dimensional space.
-
----
-- **Line (1D)**: 
-  - Equation: `y = mx + c`
-  - General form: `w1*x1 + w2*x2 + ... + wk*xk = 0`
-  - `x1, x2, ..., xk` are dimensions/variables, and `w1, w2, ..., wk` are weights/coefficients.
-  - If `c = 0`, the line passes through the origin.
-  
-- **Plane** and **Hyperplane**: Similar equations can represent planes and hyperplanes.
-- **Plane:** A flat, 2-dimensional surface in 3-dimensional space.
-- In 2D space: The "plane" is the entire space itself because there's only two dimensions.
-- In 3D space: A plane is a 2D surface, like a sheet of paper or a tabletop.
-  - Example: Imagine a flat sheet of paper that extends infinitely in two directions. This is a plane in 3D space.
-- **Hyperplane:** A general term used to describe a flat subspace in any dimensional space. The dimension of a hyperplane is always one less than the space it resides in.
+A general term used to describe a flat subspace in any dimensional space. The dimension of a hyperplane is always one less than the space it resides in.
   - In 3D space, a hyperplane is a 2D surface (like a flat plane).
   - In 4D space, a hyperplane is a 3D subspace/a 3D volume (it can be visualized as a "volume" in 4D space).
   - In 5D space, a hyperplane would be a 4-dimensional subspace (a "4D volume").
   - In 6D space, a hyperplane would be a 5-dimensional subspace (a "5D volume").
   - Similarly, in n-dimensional space, a hyperplane is a (n-1)-dimensional subspace.
+- In **k-dimensional space**, the equation $$ w1 * x1 + w2 * x2 + ... + wk * xk = 0 $$ defines a **hyperplane**, which is a flat subspace of dimension (k-1) in k-dimensional space.
 
+---
 ## Types of Matrices
 - Row Matrix: A matrix with only one row.
 - Column Matrix: A matrix with only one column.
