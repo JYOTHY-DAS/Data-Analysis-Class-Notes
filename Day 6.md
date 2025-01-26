@@ -76,20 +76,16 @@ A probability distribution represents how the probabilities of a random variable
 ## 6.3 Defining Confidence Intervals
 - Continuous distributions like Gaussian are frequently used to calculate **confidence intervals**. Inequalities help establish bounds for these intervals.
 - **Example**: For a standard Gaussian distribution, the probability of data falling within \( \pm z \) standard deviations is related to inequalities, like:
-  ```
-  P(-z \leq X \leq z) = 1 - \alpha
-  ```
-  where \( \alpha \) represents the significance level.
+  $$P(-z \leq X \leq z) = 1 - \alpha $$
+  where $$\( \alpha \)$$ represents the significance level.
 
 ## 6.4 Optimization Problems in Probability
 - Inequalities are also essential in deriving mathematical results, like minimizing or maximizing probabilities under constraints. For Gaussian distributions, such optimization frequently arises in hypothesis testing or model fitting.
 
 ## 6.5 Link to Symmetry
 - For symmetric distributions like Gaussian, inequalities can highlight symmetry-related probabilities. For example:
-  ```
-  P(X \geq \mu + k\sigma) = P(X \leq \mu - k\sigma)
-  ```
 
+  $$P(X \geq \mu + k\sigma) = P(X \leq \mu - k\sigma)$$
 
 ---
 
