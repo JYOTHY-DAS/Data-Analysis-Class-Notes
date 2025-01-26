@@ -36,8 +36,8 @@
 
 ### Line
 - In **2D space** (i.e k = 2 )):
-  - The equation $$ w1 * x1 + w2 * x2 = 0 simplifies to $$ w1 * x + w2 * y = 0 $$, which represents a **line passing through the origin**.
-  - On adding a constant  'c', the equation becomes $$ w1 * x + w2 * y + c = 0 $$, which is the **general equation of a line in 2D**.
+  - The equation $$w1 * x1 + w2 * x2 = 0 simplifies to $$w1 * x + w2 * y = 0 $$, which represents a **line passing through the origin**.
+  - On adding a constant  'c', the equation becomes $$w1 * x + w2 * y + c = 0 $$, which is the **general equation of a line in 2D**.
 
 ---
 
@@ -47,8 +47,8 @@ A flat, 2-dimensional surface in 3-dimensional space.
 - In 3D space: A plane is a 2D surface, like a sheet of paper or a tabletop.
   - Example: Imagine a flat sheet of paper that extends infinitely in two directions. This is a plane in 3D space.
 - In **3D space** (i.e k = 3):
-  - The equation $$ w1 * x1 + w2 * x2 + w3 * x3 = 0 $$ represents a **plane passing through the origin**.
-  - Adding a constant 'c' gives $$ w1 * x1 + w2 * x2 + w3 * x3 + c = 0 $$ , the **general equation of a plane in 3D**.
+  - The equation $$w1 * x1 + w2 * x2 + w3 * x3 = 0 $$ represents a **plane passing through the origin**.
+  - Adding a constant 'c' gives $$w1 * x1 + w2 * x2 + w3 * x3 + c = 0 $$ , the **general equation of a plane in 3D**.
 
 ---
 
@@ -59,7 +59,7 @@ A general term used to describe a flat subspace in any dimensional space. The di
   - In 5D space, a hyperplane would be a 4-dimensional subspace (a "4D volume").
   - In 6D space, a hyperplane would be a 5-dimensional subspace (a "5D volume").
   - Similarly, in n-dimensional space, a hyperplane is a (n-1)-dimensional subspace.
-- In **k-dimensional space**, the equation $$ w1 * x1 + w2 * x2 + ... + wk * xk = 0 $$ defines a **hyperplane**, which is a flat subspace of dimension (k-1) in k-dimensional space.
+- In **k-dimensional space**, the equation $$w1 * x1 + w2 * x2 + ... + wk * xk = 0 $$ defines a **hyperplane**, which is a flat subspace of dimension (k-1) in k-dimensional space.
 
 ---
 ## Types of Matrices
