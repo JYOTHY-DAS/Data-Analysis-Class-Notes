@@ -5,7 +5,7 @@ A probability distribution represents how the probabilities of a random variable
 
 ### 1.1 Uniform Distribution
 - **Definition**: All events have an equal probability of occurring.
-- **Example**: Rolling a fair six-sided die, where each face has an equal probability (\(1/6\)).
+- **Example**: Rolling a fair six-sided die, where each face has an equal probability (1/6).
 
 ### 1.2 Non-Uniform Distribution
 - **Definition**: Events do not have equal probabilities of occurring.
