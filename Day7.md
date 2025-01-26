@@ -78,7 +78,7 @@ The determinant tells us whether a matrix is **invertible** (non-singular) or **
 
 ---
 
-## Visual insight of $$\text{det}(A) = 0 $$ 
+## Visual interpretation of $$\text{det}(A) = 0 $$ 
 
 When the determinant is 0:
 - The matrix is **degenerate**, meaning it "collapses" into a lower-dimensional space.
