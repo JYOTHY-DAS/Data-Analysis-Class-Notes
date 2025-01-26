@@ -45,7 +45,7 @@
 - **Definition**: The probability of obtaining results at least as extreme as the observed results, assuming the null hypothesis is true.
 - **Key Points**:
   - If 𝑃 > 𝛼, fail to reject the null hypothesis.
-  - If 𝑃 ≤ 𝛼, reject the null hypothesis.
+  - If 𝑃 &le; 𝛼, reject the null hypothesis.
 - **Example**:
   - Null Hypothesis: A new drug has no effect.
   - Alternate Hypothesis: The new drug improves patient recovery.
