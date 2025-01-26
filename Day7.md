@@ -30,13 +30,13 @@
 
 ### General equation of a hyperplane
 
-##### $$ w1*x1 + w2 * x2 + .... + wk * xk = 0 $$
+##### $$w1*x1 + w2 * x2 + .... + wk * xk = 0 $$
  - `x1, x2, ..., xk` are dimensions/variables, and `w1, w2, ..., wk` are weights/coefficients.
 ---
 
 ### Line
 - In **2D space** (i.e k = 2 )):
-  - The equation $$w1 * x1 + w2 * x2 = 0 simplifies to $$w1 * x + w2 * y = 0 $$, which represents a **line passing through the origin**.
+  - The equation $$w1 * x1 + w2 * x2 = 0 $$ simplifies to $$w1 * x + w2 * y = 0 $$, which represents a **line passing through the origin**.
   - On adding a constant  'c', the equation becomes $$w1 * x + w2 * y + c = 0 $$, which is the **general equation of a line in 2D**.
 
 ---
