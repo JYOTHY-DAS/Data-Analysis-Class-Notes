@@ -47,25 +47,25 @@ A probability distribution represents how the probabilities of a random variable
   - Simplifies complex operations.
   - Example: Transformations can convert multiplication into addition, making calculations more efficient.
 - **Example**:
-  - Original Function: ( f(x) = a \dot b ).
-  - Log Transformation: \( \log(f(x)) = \log(a) + \log(b) \).
+  - Original Function: (f(x) = a.b).
+  - Log Transformation: (log(f(x)) = log(a) + log(b)).
 
 ---
 
 ## 5. Cascading of Functions
 - **Definition**: Applying one function after another in sequence.
 - **Example**:
-  - First Function: \( y = 2x \).
-  - Second Function: \( z = y^2 \).
-  - Combined Result: \( z = (2x)^2 = 4x^2 \).
+  - First Function: ( y = 2x ).
+  - Second Function: ( z = y^2 ).
+  - Combined Result: ( z = (2x)^2 = 4x^2).
 
 ---
 
 ## 6. Inequality
 - **Definition**: A mathematical expression that compares two values or expressions.
 - **Examples**:
-  - \( x > y \): \( x \) is greater than \( y \).
-  - \( x \leq z \): \( x \) is less than or equal to \( z \).
+  - ( x > y ): ( x ) is greater than ( y ).
+  - ( x \leq z ): ( x ) is less than or equal to ( z ).
 
 ---
 
@@ -86,14 +86,14 @@ A probability distribution represents how the probabilities of a random variable
 #### Probability Mass Function (PMF)
 - **Definition**: A function that gives the probability of each possible value of a discrete random variable.
 - **Example**:
-  - Rolling a die: PMF assigns \( P(X = x) = 1/6 \) for \( x = 1, 2, \dots, 6 \).
+  - Rolling a die: PMF assigns ( P(X = x) = 1/6 ) for ( x = 1, 2, ...., 6 ).
 
 ---
 
 ## 8. Bernoulli Distribution
 - **Definition**: A special case of a discrete distribution where there are only two possible outcomes (success or failure).
 - **Properties**:
-  - The probability of success is \( p \), and the probability of failure is \( 1 - p \).
+  - The probability of success is (p), and the probability of failure is (1 - p).
 - **Examples**:
   - Tossing a coin (Heads or Tails).
   - Passing or failing a test.
