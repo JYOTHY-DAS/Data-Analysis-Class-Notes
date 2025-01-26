@@ -37,13 +37,13 @@
 ## Hypothesis Testing/Court: Evidence based approach (Null Hypothesis vs Alternate Hypothesis)
 - "court" is a metaphor used to illustrate the concept of evidence-based decision-making. It draws a parallel between a court trial and hypothesis testing in statistics.
 
--In a courtroom setting:
+- **In a courtroom setting**:
   - The Null Hypothesis (H₀): The defendant is innocent.
   - The Alternative Hypothesis (H₁): The defendant is guilty.
   - The Evidence: The data collected during the trial (witnesses, facts, proof, etc.).
   - Decision: Based on the evidence, the court either fails to reject the null hypothesis (innocent) or rejects it in favor of the alternative hypothesis (guilty).
 
--In hypothesis testing:
+- **In hypothesis testing**:
   - The Null Hypothesis (H₀): The default assumption (e.g., "no effect," "no difference").
   - The Alternative Hypothesis (H₁): The claim we aim to support (e.g., "there is an effect," "there is a difference").
   - The Evidence: The sample data analyzed using statistical methods.
