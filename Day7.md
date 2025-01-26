@@ -87,18 +87,6 @@ When the determinant is 0:
   - In 3D: The determinant represents the volume of a parallelepiped. If $$\text{det}(A) = 0 $$, the parallelepiped collapses into a plane or line (it has no volume).
 
 ---
-
-### Example
-
-For a \( 2 \times 2 \) matrix:
-\[
-A = \begin{bmatrix} a & b \\ c & d \end{bmatrix}
-\]
-
-- The determinant is \( \text{det}(A) = ad - bc \).
-  - If \( ad - bc = 0 \), the rows or columns are linearly dependent, and \( A \) is not invertible.
-  - If \( ad - bc \neq 0 \), \( A \) is invertible.
-
   
 ## Projection of a Vector onto Another Vector
 - **Dimensionality Reduction**: Used to project high-dimensional data to lower dimensions with some data loss.
