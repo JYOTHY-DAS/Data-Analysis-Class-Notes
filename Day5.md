@@ -54,7 +54,7 @@
 
 ## 8. Z-Test
 - **Used When**:
-  - Sample size is large (\( n \geq 30 \)).
+  - Sample size is large (n &ge;30).
   - Population standard deviation is known.
   - Data is approximately normally distributed.
 - **Example**: Comparing the mean test scores of two large student groups to evaluate teaching methods.
