@@ -78,24 +78,22 @@ The determinant tells us whether a matrix is **invertible** (non-singular) or **
 
 ---
 
-## Why is \( \text{det}(A) = 0 \) Important?
+## Why is $$ \text{det}(A) = 0 $$ is Important?
 
 When the determinant is 0:
 - The matrix is **degenerate**, meaning it "collapses" into a lower-dimensional space.
 - For example:
-  - In 2D: A matrix might represent a parallelogram, and if \( \text{det}(A) = 0 \), the parallelogram collapses into a line or a point (it has no area).
-  - In 3D: The determinant represents the volume of a parallelepiped. If \( \text{det}(A) = 0 \), the parallelepiped collapses into a plane or line (it has no volume).
+  - In 2D: A matrix might represent a parallelogram, and if $$\text{det}(A) = 0 $$, the parallelogram collapses into a line or a point (it has no area).
+  - In 3D: The determinant represents the volume of a parallelepiped. If $$\text{det}(A) = 0 $$, the parallelepiped collapses into a plane or line (it has no volume).
 
 ---
 
 ## Key Mathematical Insight
 
-For a square matrix \( A \):
-1. The inverse of \( A \), denoted \( A^{-1} \), is computed as:
-   \[
-   A^{-1} = \frac{1}{\text{det}(A)} \cdot \text{adj}(A)
-   \]
-   - If \( \text{det}(A) = 0 \), division by zero is undefined, so \( A \) has no inverse.
+For a square matrix $$ A $$:
+1. The inverse of $$ \text{A} $$, denoted $$ A^{-1} $$, is computed as:
+   $$ \[A^{-1} = \frac{1}{\text{det}(A)} \cdot \text{adj}(A)\] $$
+   - If $$\text{det}(A) = 0 $$, division by zero is undefined, so $$\text{A}$$ has no inverse.
 2. The determinant appears in many matrix properties, such as solving systems of equations (Cramer's Rule).
 
 ---
