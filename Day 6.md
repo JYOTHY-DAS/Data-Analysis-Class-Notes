@@ -64,8 +64,8 @@ A probability distribution represents how the probabilities of a random variable
 ## 6. Inequality
 - **Definition**: A mathematical expression that compares two values or expressions.
 - **Examples**:
-  - x > y : x is greater than y.
-  - x leq z : x is less than or equal to z.
+  - x &ge y : x is greater than y.
+  - x &le z : x is less than or equal to z.
 
 ---
 
@@ -86,7 +86,7 @@ A probability distribution represents how the probabilities of a random variable
 #### Probability Mass Function (PMF)
 - **Definition**: A function that gives the probability of each possible value of a discrete random variable.
 - **Example**:
-  - Rolling a die: PMF assigns ( P(X = x) = 1/6 ) for ( x = 1, 2, ...., 6 ).
+  - Rolling a die: PMF assigns P(X = x) = 1/6 for ( x = 1, 2, ...., 6).
 
 ---
 
@@ -105,7 +105,7 @@ A probability distribution represents how the probabilities of a random variable
 ### 9.1 Variance
 - **Definition**: Measures the spread of a single random variable by quantifying the average squared deviation from its mean.
 - **Formula**:
-  - \( \text{Variance} = \sigma^2 = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2 \).
+  - $$\( \text{Variance} = \sigma^2 = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2 \).$$
 - **Example**:
   - Variance of test scores in a class.
 
