@@ -28,7 +28,7 @@
 
 ## Representation of Geometric Objects
 
-## Is $$ w_1x_1 + w_2x_2 + \ldots + w_kx_k = 0 $$ the Equation of a Line?
+## Is $$ w1*x_1 + w2 * x2 + .... + wk* xk = 0 $$ the Equation of a Line?
 
 The equation $$ w_1x_1 + w_2x_2 + \ldots + w_kx_k = 0 $$ is **not specifically the equation of a line in all cases**. Instead, it is the **general equation of a hyperplane** in \( k \)-dimensional space. Here's how it applies to different cases:
 
@@ -50,32 +50,6 @@ The equation $$ w_1x_1 + w_2x_2 + \ldots + w_kx_k = 0 $$ is **not specifically t
 
 ### 3. **When is it the Equation of a Hyperplane?**
 - In **\( k \)-dimensional space**, the equation \( w_1x_1 + w_2x_2 + \ldots + w_kx_k = 0 \) defines a **hyperplane**, which is a flat subspace of dimension \( (k-1) \) in \( k \)-dimensional space.
-
----
-
-### 4. **How Does It Relate to the Dot Product?**
-- The equation \( w_1x_1 + w_2x_2 + \ldots + w_kx_k = 0 \) can be written in **dot product form**:
-  \[
-  \mathbf{w} \cdot \mathbf{x} = 0
-  \]
-  - Here, \( \mathbf{w} = [w_1, w_2, \ldots, w_k] \) is a vector of weights or coefficients.
-  - \( \mathbf{x} = [x_1, x_2, \ldots, x_k] \) is a vector of variables.
-  - The condition \( \mathbf{w} \cdot \mathbf{x} = 0 \) implies that \( \mathbf{x} \) is **orthogonal (perpendicular)** to \( \mathbf{w} \).
-
----
-
-### 5. **Conclusion**
-- **In 2D**, \( w_1x_1 + w_2x_2 = 0 \) can represent a line.
-- **In 3D**, \( w_1x_1 + w_2x_2 + w_3x_3 = 0 \) represents a plane.
-- **In higher dimensions**, \( w_1x_1 + w_2x_2 + \ldots + w_kx_k = 0 \) represents a hyperplane.
-
----
-
-If the focus is on **lines specifically**, be sure to reference 2D space in your notes. If the content is about general equations, you can use terms like **hyperplanes**.
-
-
-
-
 
 ---
 - **Line (1D)**: 
