@@ -47,7 +47,7 @@ A probability distribution represents how the probabilities of a random variable
   - Simplifies complex operations.
   - Example: Transformations can convert multiplication into addition, making calculations more efficient.
 - **Example**:
-  - Original Function: \( f(x) = a \cdot b \).
+  - Original Function: ( f(x) = a \dot b ).
   - Log Transformation: \( \log(f(x)) = \log(a) + \log(b) \).
 
 ---
