@@ -47,25 +47,25 @@ A probability distribution represents how the probabilities of a random variable
   - Simplifies complex operations.
   - Example: Transformations can convert multiplication into addition, making calculations more efficient.
 - **Example**:
-  - Original Function: (f(x) = a.b).
-  - Log Transformation: (log(f(x)) = log(a) + log(b)).
+  - Original Function: f(x) = a.b
+  - Log Transformation: log(f(x)) = log(a) + log(b)
 
 ---
 
 ## 5. Cascading of Functions
 - **Definition**: Applying one function after another in sequence.
 - **Example**:
-  - First Function: ( y = 2x ).
-  - Second Function: ( z = y^2 ).
-  - Combined Result: ( z = (2x)^2 = 4x^2).
+  - First Function:  y = 2x
+  - Second Function: z = y²
+  - Combined Result: z = (2x)² = 4x²
 
 ---
 
 ## 6. Inequality
 - **Definition**: A mathematical expression that compares two values or expressions.
 - **Examples**:
-  - ( x > y ): ( x ) is greater than ( y ).
-  - ( x \leq z ): ( x ) is less than or equal to ( z ).
+  - x > y : x is greater than y.
+  - x \leq z : x is less than or equal to z.
 
 ---
 
