@@ -64,15 +64,15 @@
 - **Inverse**: Only invertible (non-singular) matrices have an inverse.
 - **Determinant**: A scalar value that can be computed from the elements of a square matrix, indicating the matrix's invertibility.
 
-- ## How Does it Relate to Invertibility?
+## How does determinant relate to invertibility?
 
 The determinant tells us whether a matrix is **invertible** (non-singular) or **non-invertible** (singular):
 
-1. **If \( \text{det}(A) = 0 \):**
+1. If $$\text{det}(A) = 0 $$
    - The matrix is **singular** and **not invertible**.
    - A determinant of 0 means the matrix does not have full rank (its rows or columns are linearly dependent), so the system of equations represented by the matrix cannot have a unique solution.
 
-2. **If \( \text{det}(A) \neq 0 \):**
+2. If $$\text{det}(A) \neq 0 \)$$
    - The matrix is **non-singular** and **invertible**.
    - A non-zero determinant indicates that the rows and columns are linearly independent, meaning the system of equations represented by the matrix has a unique solution.
 
