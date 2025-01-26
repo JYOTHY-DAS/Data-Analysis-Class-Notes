@@ -78,7 +78,7 @@ The determinant tells us whether a matrix is **invertible** (non-singular) or **
 
 ---
 
-## Why is $$ \text{det}(A) = 0 $$ is Important?
+## Why is $$\text{det}(A) = 0 $$ is Important?
 
 When the determinant is 0:
 - The matrix is **degenerate**, meaning it "collapses" into a lower-dimensional space.
@@ -90,9 +90,9 @@ When the determinant is 0:
 
 ## Key Mathematical Insight
 
-For a square matrix $$ A $$:
-1. The inverse of $$ \text{A} $$, denoted $$ A^{-1} $$, is computed as:
-   $$ \[A^{-1} = \frac{1}{\text{det}(A)} \cdot \text{adj}(A)\] $$
+For a square matrix $$A $$:
+1. The inverse of $$\text{A} $$, denoted $$ A^{-1} $$, is computed as:
+   $$\[A^{-1} = \frac{1}{\text{det}(A)} \cdot \text{adj}(A)\] $$
    - If $$\text{det}(A) = 0 $$, division by zero is undefined, so $$\text{A}$$ has no inverse.
 2. The determinant appears in many matrix properties, such as solving systems of equations (Cramer's Rule).
 
