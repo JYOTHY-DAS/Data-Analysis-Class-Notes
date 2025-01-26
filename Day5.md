@@ -8,7 +8,7 @@
 
 ## 2. Probability
 - **Definition**: The likelihood of an event occurring.
-- As the number of trials increases, the distribution becomes more like a bell curve (Central Limit Theorem).
+- Central Limit Theorem: As the number of trials increases, the distribution becomes more like a bell curve.
 - **Example**: Calculating the probability of rolling a 6 on a die.
 
 ---
