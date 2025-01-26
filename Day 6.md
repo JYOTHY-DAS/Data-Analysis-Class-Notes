@@ -61,11 +61,37 @@ A probability distribution represents how the probabilities of a random variable
 
 ---
 
-## 6. Inequality
-- **Definition**: A mathematical expression that compares two values or expressions.
-- **Examples**:
-  - x &ge y : x is greater than y.
-  - x &le z : x is less than or equal to z.
+## 6. Inequality in Probability Bounds
+
+## 6.1 Inequality in Probability Bounds (Chebyshev's Inequality)
+- In the context of continuous distributions, inequalities like **Chebyshev's inequality** are used to estimate the proportion of data within a certain number of standard deviations from the mean.
+- **Chebyshev's Inequality**:
+  ```
+  P(|X - \mu| \geq k\sigma) \leq \frac{1}{k^2}
+  ```
+  This inequality applies to any distribution (not just Gaussian) and helps bound the probability that a random variable deviates significantly from its mean.
+
+## 6.2 Tail Inequalities in Gaussian Distribution
+- The Gaussian distribution has well-defined **tails**, and inequalities help calculate or approximate the probability in these tails.
+- **Example**: The probability that a random variable `X` from a standard normal distribution exceeds a specific value `z`, i.e., `P(X > z)`, can be approximated or bounded.
+
+## 6.3 Defining Confidence Intervals
+- Continuous distributions like Gaussian are frequently used to calculate **confidence intervals**. Inequalities help establish bounds for these intervals.
+- **Example**: For a standard Gaussian distribution, the probability of data falling within \( \pm z \) standard deviations is related to inequalities, like:
+  ```
+  P(-z \leq X \leq z) = 1 - \alpha
+  ```
+  where \( \alpha \) represents the significance level.
+
+## 6.4 Optimization Problems in Probability
+- Inequalities are also essential in deriving mathematical results, like minimizing or maximizing probabilities under constraints. For Gaussian distributions, such optimization frequently arises in hypothesis testing or model fitting.
+
+## 6.5 Link to Symmetry
+- For symmetric distributions like Gaussian, inequalities can highlight symmetry-related probabilities. For example:
+  ```
+  P(X \geq \mu + k\sigma) = P(X \leq \mu - k\sigma)
+  ```
+
 
 ---
 
