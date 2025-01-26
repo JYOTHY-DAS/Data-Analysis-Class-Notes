@@ -26,11 +26,11 @@
 - **Key Applications**:
   - Represent lines, planes, hyperplanes using dot products.
 
-## Representation of Geometric Objects Using Dot Product
+## Representation of Geometric Objects
 
-## Is \( w_1x_1 + w_2x_2 + \ldots + w_kx_k = 0 \) the Equation of a Line?
+## Is $$ w_1x_1 + w_2x_2 + \ldots + w_kx_k = 0 $$ the Equation of a Line?
 
-The equation \( w_1x_1 + w_2x_2 + \ldots + w_kx_k = 0 \) is **not specifically the equation of a line in all cases**. Instead, it is the **general equation of a hyperplane** in \( k \)-dimensional space. Here's how it applies to different cases:
+The equation $$ w_1x_1 + w_2x_2 + \ldots + w_kx_k = 0 $$ is **not specifically the equation of a line in all cases**. Instead, it is the **general equation of a hyperplane** in \( k \)-dimensional space. Here's how it applies to different cases:
 
 ---
 
