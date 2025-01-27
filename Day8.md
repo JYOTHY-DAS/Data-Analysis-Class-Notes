@@ -26,13 +26,13 @@
 
 ## Probability Calculations
 ### Joint Probability
-- Probability of two events occurring together: \( P(A \cap B) \).
+- Probability of two events occurring together: $$P(A \cap B)$$
 
 ### Marginal Probability
-- Probability of a single event irrespective of others: \( P(A) \).
+- Probability of a single event irrespective of others: $$P(A)$$
 
 ### Conditional Probability
-- Probability of one event given another: \( P(A|B) = \frac{P(A \cap B)}{P(B)} \).
+- Probability of one event given another: $$P(A|B) = \frac{P(A \cap B)}{P(B)}$$.
 - **Similarity to Hypothesis Testing**: Evaluates the likelihood of an event under certain conditions.
 
 ## Bayes' Theorem
