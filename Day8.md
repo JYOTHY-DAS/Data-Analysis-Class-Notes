@@ -38,9 +38,10 @@
 ## Bayes' Theorem
 - **Formula**: $$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$.
 - Components:
-  - **Prior**: Initial belief before observing data.
-  - **Likelihood**: Probability of observing the data given the hypothesis.
-  - **Posterior**: Updated belief after observing data.
+  - **Prior**: Initial belief before observing data.i.e  $$P(A)$$
+  - **Likelihood**: Probability of observing the data given the hypothesis. i.e $$P(B|A)$$
+  - **Marginal**: Probability of a single event irrespective of others. i.e $$P(B)$$
+  - **Posterior**: Updated belief after observing data.  $$P(A|B)$$
 
 ### Difference Between Conditional Probability and Bayes' Theorem
 - **Conditional Probability**: Measures the likelihood of an event given another.
