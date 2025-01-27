@@ -125,31 +125,22 @@ Entropy is the most important concept in Information Theory. It’s used to quan
 
 ### Entropy Calculation
 
-The entropy of a random variable \( X \) is calculated using the formula:
+The entropy of a random variable $$X$$ is calculated using the formula:
 
-\[
-H(X) = - \sum_{i=1}^{n} P(x_i) \log_2 P(x_i)
-\]
+$$H(X) = - \sum_{i=1}^{n} P(x_i) \log_2 P(x_i)$$
 
 Where:
-- \( H(X) \) is the entropy of the dataset \( X \),
-- \( P(x_i) \) is the probability of each outcome \( x_i \),
+- $$H(X)$$ is the entropy of the dataset $$X$$,
+- $$P(x_i)$$ is the probability of each outcome $$x_i$$,
 - The sum goes over all possible outcomes in the dataset.
 
 **Example:**
 
 Imagine you have a biased coin that lands heads 70% of the time and tails 30% of the time. The entropy for this coin flip is calculated as:
 
-\[
-H(X) = - \left[ P(\text{Heads}) \log_2 P(\text{Heads}) + P(\text{Tails}) \log_2 P(\text{Tails}) \right]
-\]
-\[
-H(X) = - \left[ 0.7 \log_2 0.7 + 0.3 \log_2 0.3 \right]
-\]
-\[
-H(X) \approx 0.88 \text{ bits}
-\]
-
+$$H(X) = - \left[ P(\text{Heads}) \log_2 P(\text{Heads}) + P(\text{Tails}) \log_2 P(\text{Tails}) \right]$$
+$$H(X) = - \left[ 0.7 \log_2 0.7 + 0.3 \log_2 0.3 \right]$$
+$$H(X) \approx 0.88 \text{ bits}$$
 This means that there’s some uncertainty in predicting the outcome of the biased coin, but it’s not as uncertain as a fair coin (which has a higher entropy).
 
 ### Why It’s Useful:
@@ -182,12 +173,8 @@ Let’s say you have a binary classification problem where you’re trying to pr
 
 The cross-entropy would be calculated as:
 
-\[
-H(P, Q) = - \left[ P(\text{Spam}) \log_2 Q(\text{Spam}) + P(\text{Not Spam}) \log_2 Q(\text{Not Spam}) \right]
-\]
-\[
-H(P, Q) = - \left[ 1 \log_2 0.9 + 0 \log_2 0.1 \right] \approx 0.15 \text{ bits}
-\]
+$$H(P, Q) = - \left[ P(\text{Spam}) \log_2 Q(\text{Spam}) + P(\text{Not Spam}) \log_2 Q(\text{Not Spam}) \right]$$
+$$H(P, Q) = - \left[ 1 \log_2 0.9 + 0 \log_2 0.1 \right] \approx 0.15 \text{ bits}$$
 
 The lower the cross-entropy, the better the model's predictions are.
 
