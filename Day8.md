@@ -117,8 +117,8 @@ The entropy of a random variable $$X$$ is calculated using the formula:
 $$H(X) = - \sum_{i=1}^{n} P(x_i) \log_2 P(x_i)$$
 
 Where:
-- $$H(X)$$ is the entropy of the dataset $$X$$,
-- $$P(x_i)$$ is the probability of each outcome $$x_i$$,
+- $$H(X)$$ is the entropy of the dataset $$X$$.
+- $$P(x_i)$$ is the probability of each outcome $$x_i$$.
 - The sum goes over all possible outcomes in the dataset.
 
 **Example:**
@@ -148,11 +148,11 @@ In classification tasks, where you’re trying to predict categories (e.g., spam
 
 The cross-entropy between two distributions P (true labels) and Q (predicted labels) is given by:
 
-$$H(P, Q) = - \sum_{i=1}^{n} P(xi) \log_2 Q(xi) $$
+$$H(P, Q) = - \sum_{i=1}^{n} P(xi) \log_2 Q(x_i) $$
 
 Where:
-- $$P(x_i)$$ is the true probability of outcome $$ xi $$.
-- $$Q(x_i)$$ is the predicted probability of outcome $$xi$$.
+- $$P(x_i)$$ is the true probability of outcome $$x_i$$.
+- $$Q(x_i)$$ is the predicted probability of outcome $$x_i$$.
 
 **Example:**
 
