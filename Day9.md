@@ -37,7 +37,7 @@ The model outputs a probability p using the logistic (sigmoid) function:
 $$p = \frac{1}{1 + e^{-(\beta_0 + \beta_1 X)}}$$
 Where:
 - p is the predicted probability of the positive class (1).
-- $$\beta_0 and $$\beta_1$$ are model parameters.
+- $$\beta_0$$ and $$\beta_1$$ are model parameters.
 - X is the input feature.
 
 ### Example:
