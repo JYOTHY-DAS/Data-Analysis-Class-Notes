@@ -76,7 +76,7 @@ Optimization is the process of adjusting the parameters of a model to minimize t
 - Start with initial values for the parameters (e.g., $$\beta_0$$, $$\beta_1$$).
 - Compute the gradient (partial derivatives of the loss function with respect to each parameter).
 - Update the parameters by moving in the direction of the negative gradient:
-  $$\theta = \theta - \alpha \cdot \frac{\partial}{\partial \theta} \text{Loss}$$
+  $$\theta = \theta - \alpha \cdot \frac{\partial}{\partial \theta} \text{(Loss)}$$
 Where:
 - $$\theta$$ represents the model parameters.
 - $$\alpha$$ is the learning rate (step size).
