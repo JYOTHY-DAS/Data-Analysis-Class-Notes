@@ -36,7 +36,7 @@
 - **Similarity to Hypothesis Testing**: Evaluates the likelihood of an event under certain conditions.
 
 ## Bayes' Theorem
-- **Formula**: $$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$.
+- **Formula**: $$P(A|B) = \frac{P(B|A) P(A)}{P(B)}$$.
 - Components:
   - **Prior**: Initial belief before observing data.i.e  $$P(A)$$
   - **Likelihood**: Probability of observing the data given the hypothesis. i.e $$P(B|A)$$
