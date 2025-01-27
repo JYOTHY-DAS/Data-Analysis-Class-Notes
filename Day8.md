@@ -36,7 +36,7 @@
 - **Similarity to Hypothesis Testing**: Evaluates the likelihood of an event under certain conditions.
 
 ## Bayes' Theorem
-- **Formula**: \( P(A|B) = \frac{P(B|A)P(A)}{P(B)} \).
+- **Formula**: $$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$.
 - Components:
   - **Prior**: Initial belief before observing data.
   - **Likelihood**: Probability of observing the data given the hypothesis.
@@ -53,7 +53,7 @@
 
 ### Expected Value
 - **Expected Value (E[X])**: The average outcome of a random variable over many trials.
-  \[ E[X] = \sum{x \cdot P(x)} \]
+  $$E[X] = \sum{x \cdot P(x)}$$
 
 ## Information Theory
 ### Essence of Information Theory
@@ -62,7 +62,7 @@
 ### Entropy
 - **Definition**: A measure of uncertainty or randomness in a dataset.
 - **Entropy Calculation**:
-  \[ H(X) = -\sum_{i=1}^n P(x_i) \log_2 P(x_i) \]
+  $$H(X) = -\sum_{i=1}^n P(x_i) \log_2 P(x_i) $$
 
 ### Cross Entropy
 - Measures the difference between two probability distributions.
