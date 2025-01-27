@@ -86,7 +86,7 @@ Where:
 **Gradient Ascent** is similar to gradient descent, but instead of minimizing the loss function, it maximizes an objective function (e.g., likelihood in logistic regression).
 
 - The update rule is:
-$$\theta = \theta + \alpha \cdot \frac{\partial}{\partial \theta} \text{Objective}$$
+$$\theta = \theta + \alpha \cdot \frac{\partial}{\partial \theta} \text{(Objective)}$$
 Where:
 - $$\theta$$ represents the parameters to be maximized.
 - $$\alpha$$ is the learning rate.
