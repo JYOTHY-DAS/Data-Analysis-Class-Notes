@@ -102,5 +102,56 @@ Consider the task of training a linear regression model on a dataset of house pr
 1. Start with a random initial guess for the model parameters.
 2. Pick one training example at a time, calculate the gradient, and update the model parameters based on that one example.
 3. Repeat until the model converges to the optimal parameters.
+---
+### # When to Use and When Not to Use Gradient Descent, Gradient Ascent, and Stochastic Gradient Descent (SGD)
+
+## 1. Gradient Descent
+
+### When to Use Gradient Descent:
+- **Regression problems**: Gradient Descent is commonly used for **minimizing loss functions** in regression tasks (e.g., linear regression, logistic regression).
+- **Convex objective functions**: Gradient Descent is ideal when the objective function is **convex**, meaning it has one global minimum. This ensures that the algorithm will converge to the global minimum.
+- **Continuous and differentiable functions**: It is used when the loss function is **differentiable** and continuous, which allows the algorithm to compute the gradient (rate of change) of the function.
+
+### When Not to Use Gradient Descent:
+- **Non-convex objective functions**: If the problem has multiple local minima (e.g., training deep neural networks), **Gradient Descent** may get stuck in a local minimum instead of finding the global minimum.
+- **High computational cost**: For large datasets, performing gradient descent on the entire dataset can be computationally expensive.
+
+---
+
+## 2. Gradient Ascent
+
+### When to Use Gradient Ascent:
+- **Maximizing objective functions**: Gradient Ascent is used when you need to **maximize** an objective function rather than minimize a loss function (e.g., in **maximum likelihood estimation** or **reinforcement learning**).
+- **Convex objective functions**: Similar to gradient descent, gradient ascent works well for convex functions where a global maximum is guaranteed.
+
+### When Not to Use Gradient Ascent:
+- **Minimization problems**: It is inappropriate for problems where the goal is to **minimize** a loss function (e.g., most classification and regression tasks).
+- **Non-convex objective functions**: If the objective function has multiple local maxima, gradient ascent may converge to a local maximum instead of the global maximum.
+
+---
+
+## 3. Stochastic Gradient Descent (SGD)
+
+### When to Use Stochastic Gradient Descent (SGD):
+- **Large datasets**: SGD is effective for training on **large datasets** because it updates parameters after each individual data point, leading to faster convergence compared to batch gradient descent.
+- **Online learning**: When new data continuously arrives, SGD can be used in **online learning** settings where the model parameters are updated iteratively as new data is received.
+- **Real-time applications**: SGD is useful in situations where you need to quickly adjust the model as new data comes in or when the training data cannot be stored all at once.
+
+### When Not to Use Stochastic Gradient Descent (SGD):
+- **Small datasets**: If the dataset is small, **SGD** may not be necessary and could introduce excessive noise into the model. Batch gradient descent might be a more stable and accurate choice.
+- **Convergence issues**: SGD can struggle with **convergence** because the noisy updates (due to individual data points) can cause the algorithm to oscillate around the minimum, making it less stable.
+- **High variance**: For problems where the cost function is highly noisy or has high variance, SGD might not perform well without techniques like learning rate decay or momentum to stabilize the updates.
+
+---
+
+## Summary
+
+| Method                        | Use When                                               | Avoid When                                               |
+|-------------------------------|--------------------------------------------------------|----------------------------------------------------------|
+| **Gradient Descent**           | Minimizing loss in regression problems, convex functions | Non-convex functions, high computational cost            |
+| **Gradient Ascent**            | Maximizing objective functions, convex functions      | Minimization problems, non-convex functions              |
+| **Stochastic Gradient Descent**| Large datasets, online learning, real-time applications| Small datasets, convergence issues, high variance        |
+
+Each of these optimization techniques has its strengths and weaknesses, and choosing the right one depends on the size of the data, the nature of the function, and the specific problem you're solving.
 
 ---
