@@ -147,5 +147,12 @@ Consider the task of training a linear regression model on a dataset of house pr
 | **Stochastic Gradient Descent**| Large datasets, online learning, real-time applications| Small datasets, convergence issues, high variance        |
 
 Each of these optimization techniques has its strengths and weaknesses, and choosing the right one depends on the size of the data, the nature of the function, and the specific problem you're solving.
-
 ---
+## Note: Convex Functions and Non-Convex Functions
+
+| Feature                        | Convex Functions                                        | Non-Convex Functions                                     |
+|---------------------------------|---------------------------------------------------------|----------------------------------------------------------|
+| **Minima**                      | Only one global minimum                                 | Multiple local minima and maxima                         |
+| **Graph Shape**                 | A smooth, continuous curve (e.g., parabola)             | Multiple peaks and valleys                               |
+| **Examples**                    | MSE in Linear Regression                                | Loss functions in Neural Networks                        |
+| **Optimization Algorithms**     | Guaranteed to converge to the global minimum (e.g., Gradient Descent) | May get stuck in local minima (e.g., Gradient Descent)   |
