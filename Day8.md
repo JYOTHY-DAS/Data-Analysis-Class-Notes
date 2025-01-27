@@ -21,8 +21,20 @@
 - **Event**: A subset of the sample space representing one or more outcomes.
 
 ### Dependent and Independent Events
-- **Dependent Events**: Events where the outcome of one affects the outcome of another.
-- **Independent Events**: Events where the outcome of one does not affect the outcome of another.
+- **Dependent Events**: Events where the outcome of one affects the outcome of another. Eg:
+  -	Drawing cards from a deck without replacement
+  -	Weather and outdoor activities: If it's raining, the probability of playing outdoor sports decreases. The two events, "it's raining" and "playing outdoor sports," are dependent.
+  -	Examining a faulty product: If a product is found to be defective, the probability of finding another defective product in the same batch increases.
+  -	Traffic conditions and commute time: Heavy traffic can delay your commute time. The two events, "heavy traffic" and "longer commute time," are dependent.
+  -	In sports: Two events, “Star player of a team gets injured” and “Team wins the game” are dependent. The occurrence of the first event directly impacts the probability of the second event.
+
+- **Independent Events**: Events where the outcome of one does not affect the outcome of another. Eg:
+  -	Tossing a coin twice: The outcome of the first toss (heads or tails) does not influence the outcome of the second toss.
+  -	Rolling two dice: The number rolled on one die does not affect the number rolled on the other die. 
+  -	Drawing a card from a deck with replacement: If you draw a card, record its value, and then replace it before drawing the next card, the probability of drawing a specific card remains the same for each draw. 
+  -	Choosing a random number between 1 and 10: The number chosen in one trial does not influence the number chosen in the next trial. 
+  -	Flipping a coin and rolling a die: The outcome of the coin flip does not affect the outcome of the die roll.
+
 
 ## Probability Calculations
 ### Joint Probability
