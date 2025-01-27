@@ -166,13 +166,13 @@ $$H(P, Q) = - \left[ 1 \log_2 0.9 + 0 \log_2 0.1 \right] \approx 0.15 \text{ bit
 The lower the cross-entropy, the better the model's predictions are.
 
 ---
-### What is a Bit in Information Theory?
+### What is a Bit in information theory?
 
 In Information Theory:
 - **1 bit** represents the amount of information required to describe a **binary choice** (for example, "yes" or "no", "heads" or "tails").
 - However, when we’re dealing with **probabilities**, the amount of information you need to describe an outcome can vary. It can be **less than a bit** when the outcome is predictable, and **greater than 1 bit** when the outcome is highly uncertain.
 
-### Example: One Coin Flip
+### Example: One coin flip
 
 Let’s start with a very simple case: a **fair coin flip**, where the outcome is equally likely to be heads (H) or tails (T).
 
@@ -187,7 +187,7 @@ $$H(X) = - \left( 0.5 \times (-1) + 0.5 \times (-1) \right)$$
 $$H(X) = 1 \text{ bit}$$
 This means that the **amount of uncertainty** in predicting whether the coin will land heads or tails is **1 bit**, because you have two equally likely outcomes.
 
-### Example: A Biased Coin
+### Example: A biased coin
 
 Now, consider a **biased coin** where heads comes up 90% of the time and tails only 10% of the time. The probabilities are:
 
@@ -205,27 +205,6 @@ Notice that the entropy is now **0.47 bits**. Why is it less than 1 bit?
 - Since heads is much more likely than tails, there's **less uncertainty** in predicting the outcome. You don’t need as much information to predict heads, because you know it's the more likely outcome. 
 - The **0.47 bits** means there’s still some uncertainty, but it’s smaller compared to the fair coin (which had 1 bit of uncertainty).
 
-### What Does 0.15 Bits Mean?
-
-In the previous cross-entropy example:
-
-$$H(P, Q) = - \left[ P(\text{Spam}) \log_2 Q(\text{Spam}) + P(\text{Not Spam}) \log_2 Q(\text{Not Spam}) \right]$$
-$$H(P, Q) \approx 0.15 \text{ bits}$$
-
-This result, **0.15 bits**, tells you how much **information** is needed to describe the **error** in your model's prediction. Since cross-entropy measures the difference between two probability distributions, **0.15 bits** means that, on average, the model's predictions are not far off from the true labels, but still have some room for improvement. It’s just a **fraction of a bit** because it's a small error, and a smaller amount of information is needed to represent that error.
-
-### What’s the Difference Between 1 Bit and 0.15 Bit?
-
-- **1 bit** means maximum uncertainty (like flipping a fair coin).
-- **0.47 bits** means **less uncertainty**, more predictable (like flipping a biased coin).
-- **0.15 bits** means very little uncertainty or error, close prediction.
-
-#### Intuition:
-
-- Imagine you’re guessing a simple true/false question.
-  - If it’s a **fair coin** (1 bit), you’re equally likely to guess heads or tails, so the question carries full uncertainty.
-  - If it’s a **biased coin** (0.47 bits), you’re likely to guess heads, and there’s less uncertainty.
-  - If the prediction error is **0.15 bits**, it means your guess is very close to the correct answer, but there’s still a little uncertainty (maybe you guess "spam" when it’s "not spam" or vice versa, but it’s still a small error).
 
 ### What Happens When Bits Are Greater Than 1?
 
@@ -252,7 +231,5 @@ Here, the entropy is **2.585 bits**, which means the uncertainty in predicting t
 - **0.47 bits** = less uncertainty, more predictable (like flipping a biased coin).
 - **0.15 bits** = very little uncertainty or error, close prediction.
 - **More than 1 bit** (e.g., 2.585 bits) happens when there are multiple outcomes, as in the case of rolling a fair six-sided die, which has more uncertainty.
-
-When we talk about fractions of a bit or more than 1 bit, we’re describing the **degree of uncertainty or error** in finer terms, just like how we measure small fractions of a dollar. 
 
 
