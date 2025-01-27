@@ -91,19 +91,6 @@
   - Mean: Commonly used in statistical analysis to denote the arithmetic average.
   - Average: A more informal term for the same concept.
 
-## Information Theory
-### Essence of Information Theory
-- **Quantifying Uncertainty**: Measures unpredictability in data.
-
-### Entropy
-- **Definition**: A measure of uncertainty or randomness in a dataset.
-- **Entropy Calculation**:
-  $$H(X) = -\sum_{i=1}^n P(x_i) \log_2 P(x_i) $$
-
-### Cross Entropy
-- Measures the difference between two probability distributions.
-- Useful in classification problems to evaluate predictions against true labels.
-
 ---
 # Information Theory
 
