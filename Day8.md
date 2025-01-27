@@ -74,7 +74,7 @@
 - **Applications**:
   - Predicting average outcomes.
   - Quantifying risk in uncertain scenarios.
-- Expected value is also referred to as statistical expectation, mean, or average, depending on the context:
+- Expected value is also referred to as statistical expectation, mean or average, depending on the context:
   - Statistical Expectation: A formal term used in probability and statistics.
   - Mean: Commonly used in statistical analysis to denote the arithmetic average.
   - Average: A more informal term for the same concept.
