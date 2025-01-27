@@ -103,9 +103,7 @@ Consider the task of training a linear regression model on a dataset of house pr
 2. Pick one training example at a time, calculate the gradient, and update the model parameters based on that one example.
 3. Repeat until the model converges to the optimal parameters.
 ---
-### # When to Use and When Not to Use Gradient Descent, Gradient Ascent, and Stochastic Gradient Descent (SGD)
-
-## 1. Gradient Descent
+### 5.4 When to Use and When Not to Use Gradient Descent, Gradient Ascent, and Stochastic Gradient Descent (SGD)
 
 ### When to Use Gradient Descent:
 - **Regression problems**: Gradient Descent is commonly used for **minimizing loss functions** in regression tasks (e.g., linear regression, logistic regression).
@@ -118,8 +116,6 @@ Consider the task of training a linear regression model on a dataset of house pr
 
 ---
 
-## 2. Gradient Ascent
-
 ### When to Use Gradient Ascent:
 - **Maximizing objective functions**: Gradient Ascent is used when you need to **maximize** an objective function rather than minimize a loss function (e.g., in **maximum likelihood estimation** or **reinforcement learning**).
 - **Convex objective functions**: Similar to gradient descent, gradient ascent works well for convex functions where a global maximum is guaranteed.
@@ -129,8 +125,6 @@ Consider the task of training a linear regression model on a dataset of house pr
 - **Non-convex objective functions**: If the objective function has multiple local maxima, gradient ascent may converge to a local maximum instead of the global maximum.
 
 ---
-
-## 3. Stochastic Gradient Descent (SGD)
 
 ### When to Use Stochastic Gradient Descent (SGD):
 - **Large datasets**: SGD is effective for training on **large datasets** because it updates parameters after each individual data point, leading to faster convergence compared to batch gradient descent.
