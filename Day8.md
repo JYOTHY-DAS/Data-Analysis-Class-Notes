@@ -50,11 +50,31 @@
 ## Combinatorics and Distributions
 ### Combinatorics
 - Fundamental in understanding probabilities of complex events.
-- **Binomial Distribution**: Describes the number of successes in a fixed number of independent Bernoulli trials.
+- **Permutations**: Arrangements of items where the order matters.
+  $$P(n, r) = \frac{n!}{(n-r)!}$$
+- **Combinations**: Selections of items where the order does not matter.
+  $$C(n, r) = \frac{n!}{r!(n-r)!}$$
+- **Applications**: Useful in probability problems, such as calculating the number of ways to select subsets or arrange items.
+
+### Binomial Distribution
+- Describes the number of successes in a fixed number of independent Bernoulli trials.
+- **Formula**:
+  $$P(X = k) = \binom{n}{k} p^k (1-p)^{n-k}$$
+  Where:
+  - n: Number of trials
+  - k: Number of successes
+  - p: Probability of success in a single trial
+- **Example**: Tossing a coin 10 times and counting the number of heads.
 
 ### Expected Value
 - **Expected Value (E[X])**: The average outcome of a random variable over many trials.
-  $$E[X] = \sum{x \cdot P(x)}$$
+  $$E[X] = \sum x \cdot P(x)$$
+- **Variance**: Measures the spread of a random variable around its expected value.
+  $$\text{Var}(X) = E[X^2] - (E[X])^2 $$
+- **Applications**:
+  - Predicting average outcomes.
+  - Quantifying risk in uncertain scenarios.
+
 
 ## Information Theory
 ### Essence of Information Theory
@@ -70,7 +90,5 @@
 - Useful in classification problems to evaluate predictions against true labels.
 
 ---
-
-This document provides a crisp overview of essential concepts in data science and analytics. Each section focuses on foundational topics critical for understanding and applying data science methodologies.
 
 
